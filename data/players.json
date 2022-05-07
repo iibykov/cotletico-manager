@@ -1,0 +1,6940 @@
+{
+  "England": [
+    {
+      "name": "Harry",
+      "surname": "Kane",
+      "position": "ST",
+      "rating": 90,
+      "birthdate": "7/28/1993",
+      "number": 50,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Raheem",
+      "surname": "Sterling",
+      "position": "LW",
+      "rating": 88,
+      "birthdate": "12/8/1994",
+      "number": 1,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jadon",
+      "surname": "Sancho",
+      "position": "RM",
+      "rating": 87,
+      "birthdate": "3/25/2000",
+      "number": 36,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Trent",
+      "surname": "Alexander-Arnold",
+      "position": "RB",
+      "rating": 87,
+      "birthdate": "10/7/1998",
+      "number": 78,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jamie",
+      "surname": "Vardy",
+      "position": "ST",
+      "rating": 86,
+      "birthdate": "1/11/1987",
+      "number": 39,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Marcus",
+      "surname": "Rashford",
+      "position": "LM",
+      "rating": 85,
+      "birthdate": "10/31/1997",
+      "number": 14,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Kyle",
+      "surname": "Walker",
+      "position": "RB",
+      "rating": 85,
+      "birthdate": "5/28/1990",
+      "number": 12,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Luke",
+      "surname": "Shaw",
+      "position": "LB",
+      "rating": 84,
+      "birthdate": "7/12/1995",
+      "number": 97,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jack",
+      "surname": "Grealish",
+      "position": "LW",
+      "rating": 84,
+      "birthdate": "9/10/1995",
+      "number": 47,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Harry",
+      "surname": "Maguire",
+      "position": "CB",
+      "rating": 84,
+      "birthdate": "3/5/1993",
+      "number": 69,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jordan",
+      "surname": "Henderson",
+      "position": "CDM",
+      "rating": 84,
+      "birthdate": "6/17/1990",
+      "number": 83,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Kieran",
+      "surname": "Trippier",
+      "position": "RB",
+      "rating": 84,
+      "birthdate": "9/19/1990",
+      "number": 72,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Phil",
+      "surname": "Foden",
+      "position": "CAM",
+      "rating": 84,
+      "birthdate": "5/28/2000",
+      "number": 86,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jordan",
+      "surname": "Pickford",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": "3/7/1994",
+      "number": 95,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Nick",
+      "surname": "Pope",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": "4/19/1992",
+      "number": 46,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Aaron",
+      "surname": "Wan-Bissaka",
+      "position": "RB",
+      "rating": 83,
+      "birthdate": "11/26/1997",
+      "number": 18,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Mason",
+      "surname": "Mount",
+      "position": "CAM",
+      "rating": 83,
+      "birthdate": "1/10/1999",
+      "number": 94,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "John",
+      "surname": "Stones",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "5/28/1994",
+      "number": 16,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Ben",
+      "surname": "Chilwell",
+      "position": "LWB",
+      "rating": 82,
+      "birthdate": "12/21/1996",
+      "number": 60,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "James",
+      "surname": "Maddison",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "11/23/1996",
+      "number": 23,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Declan",
+      "surname": "Rice",
+      "position": "CDM",
+      "rating": 82,
+      "birthdate": "1/14/1999",
+      "number": 85,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Joe",
+      "surname": "Gomez",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "5/23/1997",
+      "number": 84,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Reece",
+      "surname": "James",
+      "position": "RWB",
+      "rating": 81,
+      "birthdate": "12/8/1999",
+      "number": 32,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Kalvin",
+      "surname": "Phillips",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "12/2/1995",
+      "number": 90,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "James",
+      "surname": "Ward-Prowse",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "11/1/1994",
+      "number": 92,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Danny",
+      "surname": "Ings",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "7/23/1992",
+      "number": 45,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Harvey",
+      "surname": "Barnes",
+      "position": "LM",
+      "rating": 81,
+      "birthdate": "12/9/1997",
+      "number": 11,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Dominic",
+      "surname": "Calvert-Lewin",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "3/16/1997",
+      "number": 87,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "James",
+      "surname": "Tarkowski",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "11/19/1992",
+      "number": 61,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Dele",
+      "surname": "Alli",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "4/11/1996",
+      "number": 77,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Dean",
+      "surname": "Henderson",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "3/12/1997",
+      "number": 4,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Bukayo",
+      "surname": "Saka",
+      "position": "RM",
+      "rating": 80,
+      "birthdate": "9/5/2001",
+      "number": 71,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Michael",
+      "surname": "Keane",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "1/11/1993",
+      "number": 35,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Alex",
+      "surname": "Oxlade-Chamberlain",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "8/15/1993",
+      "number": 70,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jude",
+      "surname": "Bellingham",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "6/29/2003",
+      "number": 49,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Michail",
+      "surname": "Antonio",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "3/28/1990",
+      "number": 31,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "James",
+      "surname": "Milner",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "1/4/1986",
+      "number": 88,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Jesse",
+      "surname": "Lingard",
+      "position": "CAM",
+      "rating": 79,
+      "birthdate": "12/15/1992",
+      "number": 82,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Aaron",
+      "surname": "Cresswell",
+      "position": "LB",
+      "rating": 79,
+      "birthdate": "12/15/1989",
+      "number": 29,
+      "team": "England",
+      "statistics": []
+    },
+    {
+      "name": "Callum",
+      "surname": "Wilson",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "2/27/1992",
+      "number": 13,
+      "team": "England",
+      "statistics": []
+    }
+  ],
+  "Belgium": [
+    {
+      "name": "Kevin",
+      "surname": "De Bruyne",
+      "position": "CM",
+      "rating": 91,
+      "birthdate": "6/28/1991",
+      "number": 68,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Thibaut",
+      "surname": "Courtois",
+      "position": "GK",
+      "rating": 89,
+      "birthdate": "5/11/1992",
+      "number": 83,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Romelu",
+      "surname": "Lukaku",
+      "position": "ST",
+      "rating": 88,
+      "birthdate": "5/13/1993",
+      "number": 88,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Koen",
+      "surname": "Casteels",
+      "position": "GK",
+      "rating": 86,
+      "birthdate": "6/25/1992",
+      "number": 65,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Eden",
+      "surname": "Hazard",
+      "position": "LW",
+      "rating": 85,
+      "birthdate": "1/7/1991",
+      "number": 41,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Youri",
+      "surname": "Tielemans",
+      "position": "CM",
+      "rating": 84,
+      "birthdate": "5/7/1997",
+      "number": 2,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Yannick",
+      "surname": "Carrasco",
+      "position": "LM",
+      "rating": 84,
+      "birthdate": "9/4/1993",
+      "number": 47,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Dries",
+      "surname": "Mertens",
+      "position": "SS",
+      "rating": 84,
+      "birthdate": "5/6/1987",
+      "number": 35,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Axel",
+      "surname": "Witsel",
+      "position": "CDM",
+      "rating": 83,
+      "birthdate": "1/12/1989",
+      "number": 75,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Thorgan",
+      "surname": "Hazard",
+      "position": "LM",
+      "rating": 82,
+      "birthdate": "3/29/1993",
+      "number": 31,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Jan",
+      "surname": "Vertonghen",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "4/24/1987",
+      "number": 98,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Adnan",
+      "surname": "Januzaj",
+      "position": "RW",
+      "rating": 81,
+      "birthdate": "2/5/1995",
+      "number": 74,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Radja",
+      "surname": "Nainggolan",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "5/4/1988",
+      "number": 58,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Simon",
+      "surname": "Mignolet",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "3/6/1988",
+      "number": 77,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Jason",
+      "surname": "Denayer",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "6/28/1995",
+      "number": 19,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Mousa",
+      "surname": "Demb\u00e9l\u00e9",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "7/16/1987",
+      "number": 49,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Timothy",
+      "surname": "Castagne",
+      "position": "RB",
+      "rating": 79,
+      "birthdate": "12/5/1995",
+      "number": 69,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Dennis",
+      "surname": "Praet",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "5/14/1994",
+      "number": 45,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Hans",
+      "surname": "Vanaken",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "8/24/1992",
+      "number": 15,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Dedryck",
+      "surname": "Boyata",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "11/28/1990",
+      "number": 25,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Thomas",
+      "surname": "Meunier",
+      "position": "RB",
+      "rating": 77,
+      "birthdate": "9/12/1991",
+      "number": 87,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Leander",
+      "surname": "Dendoncker",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "4/15/1995",
+      "number": 51,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Nacer",
+      "surname": "Chadli",
+      "position": "LM",
+      "rating": 77,
+      "birthdate": "8/2/1989",
+      "number": 52,
+      "team": "Belgium",
+      "statistics": []
+    },
+    {
+      "name": "Matz",
+      "surname": "Sels",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "2/26/1992",
+      "number": 64,
+      "team": "Belgium",
+      "statistics": []
+    }
+  ],
+  "Croatia": [
+    {
+      "name": "Luka",
+      "surname": "Modri\u0107",
+      "position": "CM",
+      "rating": 87,
+      "birthdate": "9/9/1985",
+      "number": 79,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Marcelo",
+      "surname": "Brozovi\u0107",
+      "position": "CDM",
+      "rating": 84,
+      "birthdate": "11/16/1992",
+      "number": 14,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Mateo",
+      "surname": "Kova\u010di\u0107",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "5/6/1994",
+      "number": 12,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Andrej",
+      "surname": "Kramari\u0107",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "6/19/1991",
+      "number": 53,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Dominik",
+      "surname": "Livakovi\u0107",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "1/9/1995",
+      "number": 41,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Ante",
+      "surname": "Rebi\u0107",
+      "position": "LM",
+      "rating": 82,
+      "birthdate": "9/21/1993",
+      "number": 6,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Ivan",
+      "surname": "Rakiti\u0107",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "3/10/1988",
+      "number": 39,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Ivan",
+      "surname": "Peri\u0161i\u0107",
+      "position": "LM",
+      "rating": 81,
+      "birthdate": "2/2/1989",
+      "number": 65,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Nikola",
+      "surname": "Vla\u0161i\u0107",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "10/4/1997",
+      "number": 51,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "\u0160ime",
+      "surname": "Vrsaljko",
+      "position": "RB",
+      "rating": 80,
+      "birthdate": "1/10/1992",
+      "number": 99,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Mario",
+      "surname": "Pa\u0161ali\u0107",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "2/9/1995",
+      "number": 98,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Domagoj",
+      "surname": "Vida",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "4/29/1989",
+      "number": 1,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Duje",
+      "surname": "\u0106aleta-Car",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "9/17/1996",
+      "number": 40,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Ante",
+      "surname": "Budimir",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "7/22/1991",
+      "number": 94,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Mislav",
+      "surname": "Or\u0161i\u0107",
+      "position": "LM",
+      "rating": 77,
+      "birthdate": "12/29/1992",
+      "number": 43,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Borna",
+      "surname": "Sosa",
+      "position": "LWB",
+      "rating": 77,
+      "birthdate": "1/21/1998",
+      "number": 72,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Adrian",
+      "surname": "Semper",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": null,
+      "number": 1,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Borna",
+      "surname": "Barisic",
+      "position": "LB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 2,
+      "team": "Croatia",
+      "statistics": []
+    },
+    {
+      "name": "Josko",
+      "surname": "Gvardiol",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 3,
+      "team": "Croatia",
+      "statistics": []
+    }
+  ],
+  "Denmark": [
+    {
+      "name": "Kasper",
+      "surname": "Schmeichel",
+      "position": "GK",
+      "rating": 85,
+      "birthdate": "11/5/1986",
+      "number": 74,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Pierre-Emile",
+      "surname": "H\u00f8jbjerg",
+      "position": "CDM",
+      "rating": 83,
+      "birthdate": "8/5/1995",
+      "number": 32,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Simon",
+      "surname": "Kj\u00e6r",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "3/26/1989",
+      "number": 6,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Christian",
+      "surname": "Eriksen",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "2/14/1992",
+      "number": 36,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Thomas",
+      "surname": "Delaney",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "9/3/1991",
+      "number": 54,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "Wass",
+      "position": "RB",
+      "rating": 80,
+      "birthdate": "5/31/1989",
+      "number": 62,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Andreas",
+      "surname": "Christensen",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "4/10/1996",
+      "number": 10,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Kasper",
+      "surname": "Dolberg",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "10/6/1997",
+      "number": 25,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Jannik",
+      "surname": "Vestergaard",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "8/3/1992",
+      "number": 38,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Yussuf",
+      "surname": "Poulsen",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "6/15/1994",
+      "number": 46,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Joakim",
+      "surname": "M\u00e6hle",
+      "position": "RWB",
+      "rating": 77,
+      "birthdate": "5/20/1997",
+      "number": 51,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Mikkel",
+      "surname": "Damsgaard",
+      "position": "LM",
+      "rating": 77,
+      "birthdate": "7/3/2000",
+      "number": 72,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Martin",
+      "surname": "Braithwaite",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "6/5/1991",
+      "number": 13,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Frederik",
+      "surname": "Ronnow",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": null,
+      "number": 2,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Rasmus",
+      "surname": "Falk",
+      "position": "CM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 2,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Philip",
+      "surname": "Billing",
+      "position": "CM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 2,
+      "team": "Denmark",
+      "statistics": []
+    },
+    {
+      "name": "Alexander",
+      "surname": "Bah",
+      "position": "RB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 2,
+      "team": "Denmark",
+      "statistics": []
+    }
+  ],
+  "France": [
+    {
+      "name": "Kylian",
+      "surname": "Mbapp\u00e9",
+      "position": "ST",
+      "rating": 91,
+      "birthdate": "12/20/1998",
+      "number": 50,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "N'Golo",
+      "surname": "Kant\u00e9",
+      "position": "CDM",
+      "rating": 90,
+      "birthdate": "3/29/1991",
+      "number": 18,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Karim",
+      "surname": "Benzema",
+      "position": "SS",
+      "rating": 89,
+      "birthdate": "12/19/1987",
+      "number": 91,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Paul",
+      "surname": "Pogba",
+      "position": "CM",
+      "rating": 87,
+      "birthdate": "3/15/1993",
+      "number": 64,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Hugo",
+      "surname": "Lloris",
+      "position": "GK",
+      "rating": 87,
+      "birthdate": "12/26/1986",
+      "number": 70,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Rapha\u00ebl",
+      "surname": "Varane",
+      "position": "CB",
+      "rating": 86,
+      "birthdate": "4/25/1993",
+      "number": 11,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Kingsley",
+      "surname": "Coman",
+      "position": "LM",
+      "rating": 86,
+      "birthdate": "6/13/1996",
+      "number": 71,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Antoine",
+      "surname": "Griezmann",
+      "position": "ST",
+      "rating": 85,
+      "birthdate": "3/21/1991",
+      "number": 41,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Wissam",
+      "surname": "Ben Yedder",
+      "position": "ST",
+      "rating": 84,
+      "birthdate": "8/12/1990",
+      "number": 97,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Theo",
+      "surname": "Hern\u00e1ndez",
+      "position": "LB",
+      "rating": 84,
+      "birthdate": "10/6/1997",
+      "number": 62,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Mike",
+      "surname": "Maignan",
+      "position": "GK",
+      "rating": 84,
+      "birthdate": "7/3/1995",
+      "number": 68,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Digne",
+      "position": "LB",
+      "rating": 84,
+      "birthdate": "7/20/1993",
+      "number": 55,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Nabil",
+      "surname": "Fekir",
+      "position": "CAM",
+      "rating": 84,
+      "birthdate": "7/18/1993",
+      "number": 37,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Ferland",
+      "surname": "Mendy",
+      "position": "LB",
+      "rating": 83,
+      "birthdate": "6/8/1995",
+      "number": 47,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Thomas",
+      "surname": "Lemar",
+      "position": "LM",
+      "rating": 83,
+      "birthdate": "11/12/1995",
+      "number": 79,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Hern\u00e1ndez",
+      "position": "LB",
+      "rating": 83,
+      "birthdate": "2/14/1996",
+      "number": 77,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Presnel",
+      "surname": "Kimpembe",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "8/13/1995",
+      "number": 16,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Ousmane",
+      "surname": "Demb\u00e9l\u00e9",
+      "position": "RW",
+      "rating": 83,
+      "birthdate": "5/15/1997",
+      "number": 7,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Jules",
+      "surname": "Kound\u00e9",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "11/12/1998",
+      "number": 99,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Alphonse",
+      "surname": "Areola",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "2/27/1993",
+      "number": 84,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Tanguy",
+      "surname": "Ndombele",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "12/28/1996",
+      "number": 56,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Alexandre",
+      "surname": "Lacazette",
+      "position": "ST",
+      "rating": 82,
+      "birthdate": "5/28/1991",
+      "number": 8,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Dayot",
+      "surname": "Upamecano",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "10/27/1998",
+      "number": 86,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Cl\u00e9ment",
+      "surname": "Lenglet",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "6/17/1995",
+      "number": 31,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Jordan",
+      "surname": "Veretout",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "3/1/1993",
+      "number": 40,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Adrien",
+      "surname": "Rabiot",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "4/3/1995",
+      "number": 89,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Christopher",
+      "surname": "Nkunku",
+      "position": "CAM",
+      "rating": 81,
+      "birthdate": "11/14/1997",
+      "number": 65,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Houssem",
+      "surname": "Aouar",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "6/30/1998",
+      "number": 39,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Steve",
+      "surname": "Mandanda",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "3/28/1985",
+      "number": 58,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Benjamin",
+      "surname": "Andr\u00e9",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "8/3/1990",
+      "number": 73,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Nordi",
+      "surname": "Mukiele",
+      "position": "RWB",
+      "rating": 81,
+      "birthdate": "11/1/1997",
+      "number": 1,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Anthony",
+      "surname": "Martial",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "12/5/1995",
+      "number": 60,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Andr\u00e9-Pierre",
+      "surname": "Gignac",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "12/5/1985",
+      "number": 32,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Moussa",
+      "surname": "Diaby",
+      "position": "LW",
+      "rating": 81,
+      "birthdate": "7/7/1999",
+      "number": 92,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Kurt",
+      "surname": "Zouma",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "10/27/1994",
+      "number": 90,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Corentin",
+      "surname": "Tolisso",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "8/3/1994",
+      "number": 29,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Francis",
+      "surname": "Coquelin",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "5/13/1991",
+      "number": 88,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "T\u00e9ji",
+      "surname": "Savanier",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "12/22/1991",
+      "number": 98,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Ga\u00ebtan",
+      "surname": "Laborde",
+      "position": "ST",
+      "rating": 80,
+      "birthdate": "5/3/1994",
+      "number": 94,
+      "team": "France",
+      "statistics": []
+    },
+    {
+      "name": "Florian",
+      "surname": "Thauvin",
+      "position": "RW",
+      "rating": 80,
+      "birthdate": "1/26/1993",
+      "number": 61,
+      "team": "France",
+      "statistics": []
+    }
+  ],
+  "Germany": [
+    {
+      "name": "Manuel",
+      "surname": "Neuer",
+      "position": "GK",
+      "rating": 90,
+      "birthdate": "3/27/1986",
+      "number": 59,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Marc-Andr\u00e9",
+      "surname": "ter Stegen",
+      "position": "GK",
+      "rating": 90,
+      "birthdate": "4/30/1992",
+      "number": 81,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Joshua",
+      "surname": "Kimmich",
+      "position": "CDM",
+      "rating": 89,
+      "birthdate": "2/8/1995",
+      "number": 88,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Toni",
+      "surname": "Kroos",
+      "position": "CM",
+      "rating": 88,
+      "birthdate": "1/4/1990",
+      "number": 56,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Leon",
+      "surname": "Goretzka",
+      "position": "CM",
+      "rating": 87,
+      "birthdate": "2/6/1995",
+      "number": 91,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Thomas",
+      "surname": "M\u00fcller",
+      "position": "CAM",
+      "rating": 87,
+      "birthdate": "9/13/1989",
+      "number": 85,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Mats",
+      "surname": "Hummels",
+      "position": "CB",
+      "rating": 86,
+      "birthdate": "12/16/1988",
+      "number": 84,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Serge",
+      "surname": "Gnabry",
+      "position": "RM",
+      "rating": 85,
+      "birthdate": "7/14/1995",
+      "number": 47,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "\u0130lkay",
+      "surname": "G\u00fcndo\u011fan",
+      "position": "CM",
+      "rating": 85,
+      "birthdate": "10/24/1990",
+      "number": 40,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Marco",
+      "surname": "Reus",
+      "position": "CAM",
+      "rating": 85,
+      "birthdate": "5/31/1989",
+      "number": 17,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Leroy",
+      "surname": "San\u00e9",
+      "position": "RM",
+      "rating": 84,
+      "birthdate": "1/11/1996",
+      "number": 95,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Kai",
+      "surname": "Havertz",
+      "position": "CAM",
+      "rating": 84,
+      "birthdate": "6/11/1999",
+      "number": 28,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Timo",
+      "surname": "Werner",
+      "position": "ST",
+      "rating": 84,
+      "birthdate": "3/6/1996",
+      "number": 35,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Matthias",
+      "surname": "Ginter",
+      "position": "CB",
+      "rating": 84,
+      "birthdate": "1/19/1994",
+      "number": 44,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Robin",
+      "surname": "Gosens",
+      "position": "LM",
+      "rating": 83,
+      "birthdate": "7/5/1994",
+      "number": 66,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Bernd",
+      "surname": "Leno",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": "3/4/1992",
+      "number": 93,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Kevin",
+      "surname": "Volland",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "7/30/1992",
+      "number": 27,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Antonio",
+      "surname": "R\u00fcdiger",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "3/3/1993",
+      "number": 46,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Emre",
+      "surname": "Can",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "1/12/1994",
+      "number": 65,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Kevin",
+      "surname": "Trapp",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "7/8/1990",
+      "number": 39,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Oliver",
+      "surname": "Baumann",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "6/2/1990",
+      "number": 30,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Lars",
+      "surname": "Stindl",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "8/26/1988",
+      "number": 18,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Mario",
+      "surname": "G\u00f6tze",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "6/3/1992",
+      "number": 8,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Florian",
+      "surname": "Neuhaus",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "3/16/1997",
+      "number": 82,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Niklas",
+      "surname": "S\u00fcle",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "9/3/1995",
+      "number": 12,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Maximilian",
+      "surname": "Arnold",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "5/27/1994",
+      "number": 15,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Julian",
+      "surname": "Brandt",
+      "position": "CAM",
+      "rating": 81,
+      "birthdate": "5/2/1996",
+      "number": 69,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Max",
+      "surname": "Kruse",
+      "position": "SS",
+      "rating": 81,
+      "birthdate": "3/19/1988",
+      "number": 58,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Ridle",
+      "surname": "Baku",
+      "position": "RM",
+      "rating": 80,
+      "birthdate": "4/8/1998",
+      "number": 4,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Philipp",
+      "surname": "Max",
+      "position": "LB",
+      "rating": 80,
+      "birthdate": "9/30/1993",
+      "number": 54,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Julian",
+      "surname": "Draxler",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "9/20/1993",
+      "number": 14,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Lukas",
+      "surname": "Klostermann",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "6/3/1996",
+      "number": 45,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Diego",
+      "surname": "Demme",
+      "position": "CDM",
+      "rating": 80,
+      "birthdate": "11/21/1991",
+      "number": 67,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Mesut",
+      "surname": "\u00d6zil",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "10/15/1988",
+      "number": 13,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Mahmoud",
+      "surname": "Dahoud",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "1/1/1996",
+      "number": 20,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Christian",
+      "surname": "G\u00fcnter",
+      "position": "LB",
+      "rating": 79,
+      "birthdate": "2/28/1993",
+      "number": 60,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Kerem",
+      "surname": "Demirbay",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "7/3/1993",
+      "number": 78,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Jonas",
+      "surname": "Hofmann",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "7/14/1992",
+      "number": 55,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Julian",
+      "surname": "Weigl",
+      "position": "CM",
+      "rating": 79,
+      "birthdate": "9/8/1995",
+      "number": 80,
+      "team": "Germany",
+      "statistics": []
+    },
+    {
+      "name": "Karim",
+      "surname": "Bellarabi",
+      "position": "RW",
+      "rating": 79,
+      "birthdate": "4/8/1990",
+      "number": 6,
+      "team": "Germany",
+      "statistics": []
+    }
+  ],
+  "Netherlands": [
+    {
+      "name": "Virgil",
+      "surname": "van Dijk",
+      "position": "CB",
+      "rating": 89,
+      "birthdate": "7/8/1991",
+      "number": 79,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Frenkie",
+      "surname": "de Jong",
+      "position": "CM",
+      "rating": 87,
+      "birthdate": "5/12/1997",
+      "number": 14,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Memphis",
+      "surname": "Depay",
+      "position": "SS",
+      "rating": 85,
+      "birthdate": "2/13/1994",
+      "number": 55,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Stefan",
+      "surname": "de Vrij",
+      "position": "CB",
+      "rating": 85,
+      "birthdate": "2/5/1992",
+      "number": 39,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Matthijs",
+      "surname": "de Ligt",
+      "position": "CB",
+      "rating": 85,
+      "birthdate": "8/12/1999",
+      "number": 11,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Georginio",
+      "surname": "Wijnaldum",
+      "position": "CM",
+      "rating": 84,
+      "birthdate": "11/11/1990",
+      "number": 56,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Wout",
+      "surname": "Weghorst",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "8/7/1992",
+      "number": 93,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Denzel",
+      "surname": "Dumfries",
+      "position": "RB",
+      "rating": 82,
+      "birthdate": "4/18/1996",
+      "number": 2,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Marten",
+      "surname": "de Roon",
+      "position": "CDM",
+      "rating": 82,
+      "birthdate": "3/29/1991",
+      "number": 65,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Daley",
+      "surname": "Blind",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "3/9/1990",
+      "number": 24,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Jasper",
+      "surname": "Cillessen",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "4/22/1989",
+      "number": 77,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Donny",
+      "surname": "van de Beek",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "4/18/1997",
+      "number": 97,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Steven",
+      "surname": "Berghuis",
+      "position": "RW",
+      "rating": 81,
+      "birthdate": "12/19/1991",
+      "number": 54,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Hans",
+      "surname": "Hateboer",
+      "position": "RM",
+      "rating": 80,
+      "birthdate": "1/9/1994",
+      "number": 42,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Quincy",
+      "surname": "Promes",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "1/4/1992",
+      "number": 68,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Steven",
+      "surname": "Bergwijn",
+      "position": "LM",
+      "rating": 80,
+      "birthdate": "10/8/1997",
+      "number": 87,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Donyell",
+      "surname": "Malen",
+      "position": "ST",
+      "rating": 80,
+      "birthdate": "1/19/1999",
+      "number": 44,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Davy",
+      "surname": "Klaassen",
+      "position": "CAM",
+      "rating": 79,
+      "birthdate": "2/21/1993",
+      "number": 8,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Teun",
+      "surname": "Koopmeiners",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "2/28/1998",
+      "number": 64,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Owen",
+      "surname": "Wijndal",
+      "position": "LB",
+      "rating": 79,
+      "birthdate": "11/28/1999",
+      "number": 19,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Luuk",
+      "surname": "de Jong",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "8/27/1990",
+      "number": 22,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Sven",
+      "surname": "Botman",
+      "position": "CB",
+      "rating": 79,
+      "birthdate": "1/12/2000",
+      "number": 38,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Rick",
+      "surname": "Karsdorp",
+      "position": "RM",
+      "rating": 78,
+      "birthdate": "2/11/1995",
+      "number": 59,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Ryan",
+      "surname": "Gravenberch",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "5/16/2002",
+      "number": 5,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Ruud",
+      "surname": "Vormer",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "5/11/1988",
+      "number": 90,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Noa",
+      "surname": "Lang",
+      "position": "LW",
+      "rating": 78,
+      "birthdate": "6/17/1999",
+      "number": 26,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Cody",
+      "surname": "Gakpo",
+      "position": "LM",
+      "rating": 78,
+      "birthdate": "5/7/1999",
+      "number": 72,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Nathan",
+      "surname": "Ak\u00e9",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "2/18/1995",
+      "number": 34,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Justin",
+      "surname": "Bijlow",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "1/22/1998",
+      "number": 85,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Joey",
+      "surname": "Veerman",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "11/19/1998",
+      "number": 58,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Marco",
+      "surname": "Bizot",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "3/10/1991",
+      "number": 47,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Tyrell",
+      "surname": "Malacia",
+      "position": "LB",
+      "rating": 77,
+      "birthdate": "8/17/1999",
+      "number": 82,
+      "team": "Netherlands",
+      "statistics": []
+    },
+    {
+      "name": "Tim",
+      "surname": "Krul",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "4/3/1988",
+      "number": 89,
+      "team": "Netherlands",
+      "statistics": []
+    }
+  ],
+  "Poland": [
+    {
+      "name": "Robert",
+      "surname": "Lewandowski",
+      "position": "ST",
+      "rating": 92,
+      "birthdate": "8/21/1988",
+      "number": 98,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Wojciech",
+      "surname": "Szcz\u0119sny",
+      "position": "GK",
+      "rating": 87,
+      "birthdate": "4/18/1990",
+      "number": 18,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "\u0141ukasz",
+      "surname": "Fabia\u0144ski",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "4/18/1985",
+      "number": 55,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Piotr",
+      "surname": "Zieli\u0144ski",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "5/20/1994",
+      "number": 24,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Arkadiusz",
+      "surname": "Milik",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "2/28/1994",
+      "number": 64,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Rafa\u0142",
+      "surname": "Gikiewicz",
+      "position": "GK",
+      "rating": 79,
+      "birthdate": "10/26/1987",
+      "number": 95,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Bart\u0142omiej",
+      "surname": "Dr\u0105gowski",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "8/19/1997",
+      "number": 21,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Krzysztof",
+      "surname": "Piatek",
+      "position": "ST",
+      "rating": 76,
+      "birthdate": null,
+      "number": 1,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Adrian",
+      "surname": "Mierzejewski",
+      "position": "CAM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 2,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Karol",
+      "surname": "Linetty",
+      "position": "CM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 3,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Adrian",
+      "surname": "Bojewski",
+      "position": "CAM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 4,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Mateusz",
+      "surname": "Klich",
+      "position": "CM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 5,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Krystian",
+      "surname": "Bielik",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 6,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Jan",
+      "surname": "Bednarek",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 7,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Maciej",
+      "surname": "Rybus",
+      "position": "LB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 8,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Tomasz",
+      "surname": "Kedziora",
+      "position": "RB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 9,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Pawel",
+      "surname": "Dawidowicz",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 10,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Michal",
+      "surname": "Helik",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 11,
+      "team": "Poland",
+      "statistics": []
+    },
+    {
+      "name": "Robert",
+      "surname": "Gumny",
+      "position": "RB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 12,
+      "team": "Poland",
+      "statistics": []
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "C. Ronaldo",
+      "surname": "dos Santos Aveiro",
+      "position": "ST",
+      "rating": 91,
+      "birthdate": "2/5/1985",
+      "number": 53,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Bruno Miguel",
+      "surname": "Borges Fernandes",
+      "position": "CAM",
+      "rating": 88,
+      "birthdate": "9/8/1994",
+      "number": 26,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "R\u00faben Santos",
+      "surname": "Gato Alves Dias",
+      "position": "CB",
+      "rating": 87,
+      "birthdate": "5/14/1997",
+      "number": 88,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o Pedro",
+      "surname": "Cavaco Cancelo",
+      "position": "RB",
+      "rating": 86,
+      "birthdate": "5/27/1994",
+      "number": 25,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Bernardo Mota",
+      "surname": "Carvalho e Silva",
+      "position": "CAM",
+      "rating": 86,
+      "birthdate": "8/10/1994",
+      "number": 69,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Ricardo",
+      "surname": "Barbosa Pereira",
+      "position": "RB",
+      "rating": 84,
+      "birthdate": "10/6/1993",
+      "number": 97,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Rapha\u00ebl",
+      "surname": "Guerreiro",
+      "position": "LB",
+      "rating": 84,
+      "birthdate": "12/22/1993",
+      "number": 59,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Andr\u00e9 Miguel",
+      "surname": "Valente da Silva",
+      "position": "ST",
+      "rating": 84,
+      "birthdate": "11/6/1995",
+      "number": 7,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o",
+      "surname": "F\u00e9lix Sequeira",
+      "position": "SS",
+      "rating": 83,
+      "birthdate": "11/10/1999",
+      "number": 29,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Anthony",
+      "surname": "Lopes",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "10/1/1990",
+      "number": 66,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Rui Pedro",
+      "surname": "dos Santos Patr\u00edcio",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "2/15/1988",
+      "number": 92,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Diogo Jos\u00e9",
+      "surname": "Teixeira da Silva",
+      "position": "LW",
+      "rating": 82,
+      "birthdate": "12/4/1996",
+      "number": 93,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "R\u00faben Diogo",
+      "surname": "da Silva Neves",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "3/13/1997",
+      "number": 74,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o Maria",
+      "surname": "Palhinha Gon\u00e7alves",
+      "position": "CDM",
+      "rating": 82,
+      "birthdate": "7/9/1995",
+      "number": 58,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Rafael A.",
+      "surname": "Ferreira Silva",
+      "position": "RM",
+      "rating": 82,
+      "birthdate": "5/17/1993",
+      "number": 19,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "K\u00e9pler Laveran",
+      "surname": "Lima Ferreira",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "2/26/1983",
+      "number": 35,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Luis Miguel",
+      "surname": "Afonso Fernandes",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "10/6/1989",
+      "number": 24,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Pedro Ant\u00f3nio",
+      "surname": "Pereira Gon\u00e7alves",
+      "position": "RW",
+      "rating": 81,
+      "birthdate": "6/28/1998",
+      "number": 71,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Danilo Lu\u00eds",
+      "surname": "H\u00e9lio Pereira",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "9/9/1991",
+      "number": 17,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Rui Tiago",
+      "surname": "Dantas da Silva",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "2/7/1994",
+      "number": 82,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Gon\u00e7alo Manuel",
+      "surname": "Ganchinho Guedes",
+      "position": "LM",
+      "rating": 81,
+      "birthdate": "11/29/1996",
+      "number": 56,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Lu\u00eds Carlos",
+      "surname": "Almeida da Cunha",
+      "position": "LW",
+      "rating": 81,
+      "birthdate": "11/17/1986",
+      "number": 43,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 Miguel",
+      "surname": "da Rocha Fonte",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "12/22/1983",
+      "number": 79,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Renato J\u00fanior",
+      "surname": "Luz Sanches",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "8/18/1997",
+      "number": 9,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "S\u00e9rgio Miguel",
+      "surname": "Relvas de Oliveira",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "6/2/1992",
+      "number": 12,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "N\u00e9lson",
+      "surname": "Cabral Semedo",
+      "position": "RWB",
+      "rating": 80,
+      "birthdate": "11/16/1993",
+      "number": 6,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o M\u00e1rio",
+      "surname": "Naval Costa Eduardo",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "1/19/1993",
+      "number": 21,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o Filipe",
+      "surname": "Moutinho",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "9/8/1986",
+      "number": 94,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 Pedro",
+      "surname": "Malheiro de S\u00e1",
+      "position": "GK",
+      "rating": 79,
+      "birthdate": "1/17/1993",
+      "number": 73,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Ricardo Jorge",
+      "surname": "da Luz Horta",
+      "position": "SS",
+      "rating": 79,
+      "birthdate": "9/15/1994",
+      "number": 99,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o Paulo",
+      "surname": "Dias Fernandes",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "11/9/1992",
+      "number": 68,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Ricardo",
+      "surname": "Sousa Esgaio",
+      "position": "RWB",
+      "rating": 78,
+      "birthdate": "5/16/1993",
+      "number": 60,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Nuno Alexandre",
+      "surname": "Tavares Mendes",
+      "position": "LWB",
+      "rating": 78,
+      "birthdate": "6/19/2002",
+      "number": 86,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Gelson Dany",
+      "surname": "Batalha Martins",
+      "position": "RM",
+      "rating": 78,
+      "birthdate": "5/11/1995",
+      "number": 46,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Nuno Miguel",
+      "surname": "Jer\u00f3nimo Sequeira",
+      "position": "LB",
+      "rating": 78,
+      "birthdate": "8/19/1990",
+      "number": 96,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Nuno Miguel",
+      "surname": "Gomes dos Santos",
+      "position": "LW",
+      "rating": 78,
+      "birthdate": "2/13/1995",
+      "number": 44,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "M\u00e1rio Rui",
+      "surname": "Silva Duarte",
+      "position": "LB",
+      "rating": 78,
+      "birthdate": "5/27/1991",
+      "number": 64,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Miguel Lu\u00eds",
+      "surname": "Pinto Veloso",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "5/11/1986",
+      "number": 10,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "William",
+      "surname": "Silva de Carvalho",
+      "position": "CDM",
+      "rating": 78,
+      "birthdate": "4/7/1992",
+      "number": 61,
+      "team": "Portugal",
+      "statistics": []
+    },
+    {
+      "name": "Pedro",
+      "surname": "Lomba Neto",
+      "position": "LW",
+      "rating": 78,
+      "birthdate": "3/9/2000",
+      "number": 41,
+      "team": "Portugal",
+      "statistics": []
+    }
+  ],
+  "Serbia": [
+    {
+      "name": "Sergej",
+      "surname": "Milinkovi\u0107-Savi\u0107",
+      "position": "CM",
+      "rating": 85,
+      "birthdate": "2/27/1995",
+      "number": 48,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Filip",
+      "surname": "Kosti\u0107",
+      "position": "LM",
+      "rating": 84,
+      "birthdate": "11/1/1992",
+      "number": 80,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Du\u0161an",
+      "surname": "Tadi\u0107",
+      "position": "LW",
+      "rating": 84,
+      "birthdate": "11/20/1988",
+      "number": 19,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Marko",
+      "surname": "Dmitrovi\u0107",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "1/24/1992",
+      "number": 41,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Nemanja",
+      "surname": "Gudelj",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "11/16/1991",
+      "number": 6,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Nemanja",
+      "surname": "Maksimovi\u0107",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "1/26/1995",
+      "number": 69,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Nemanja",
+      "surname": "Mati\u0107",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "8/1/1988",
+      "number": 84,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Luka",
+      "surname": "Jovi\u0107",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "12/23/1997",
+      "number": 2,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Uro\u0161",
+      "surname": "Ra\u010di\u0107",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "3/17/1998",
+      "number": 17,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Aleksandar",
+      "surname": "Kolarov",
+      "position": "LB",
+      "rating": 78,
+      "birthdate": "11/10/1985",
+      "number": 12,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Predrag",
+      "surname": "Rajkovi\u0107",
+      "position": "GK",
+      "rating": 78,
+      "birthdate": "10/31/1995",
+      "number": 9,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Du\u0161an",
+      "surname": "Vlahovi\u0107",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "1/28/2000",
+      "number": 97,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Nikola",
+      "surname": "Milenkovic",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 2,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Ivan",
+      "surname": "Radovanovic",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 3,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Matija",
+      "surname": "Nastasic",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 4,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Mihailo",
+      "surname": "Ristic",
+      "position": "LB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 10,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Stefan",
+      "surname": "Mitrovic",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 11,
+      "team": "Serbia",
+      "statistics": []
+    },
+    {
+      "name": "Milos",
+      "surname": "Veljkovic",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 12,
+      "team": "Serbia",
+      "statistics": []
+    }
+  ],
+  "Spain": [
+    {
+      "name": "Sergio",
+      "surname": "Ramos Garc\u00eda",
+      "position": "CB",
+      "rating": 88,
+      "birthdate": "3/30/1986",
+      "number": 81,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Sergio",
+      "surname": "Busquets Burgos",
+      "position": "CDM",
+      "rating": 86,
+      "birthdate": "7/16/1988",
+      "number": 1,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Gerard",
+      "surname": "Moreno Balaguer\u00f3",
+      "position": "ST",
+      "rating": 86,
+      "birthdate": "4/7/1992",
+      "number": 8,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Marcos",
+      "surname": "Llorente Moreno",
+      "position": "CM",
+      "rating": 86,
+      "birthdate": "1/30/1995",
+      "number": 7,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Aymeric",
+      "surname": "Laporte",
+      "position": "CB",
+      "rating": 86,
+      "birthdate": "5/27/1994",
+      "number": 53,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "Parejo Mu\u00f1oz",
+      "position": "CM",
+      "rating": 86,
+      "birthdate": "4/16/1989",
+      "number": 38,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Rodrigo",
+      "surname": "Hern\u00e1ndez Cascante",
+      "position": "CDM",
+      "rating": 86,
+      "birthdate": "6/22/1996",
+      "number": 69,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jordi",
+      "surname": "Alba Ramos",
+      "position": "LB",
+      "rating": 86,
+      "birthdate": "3/21/1989",
+      "number": 12,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Thiago",
+      "surname": "Alc\u00e2ntara",
+      "position": "CM",
+      "rating": 86,
+      "birthdate": "4/11/1991",
+      "number": 93,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "David Josu\u00e9",
+      "surname": "Jim\u00e9nez Silva",
+      "position": "CAM",
+      "rating": 85,
+      "birthdate": "1/8/1986",
+      "number": 22,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Mikel",
+      "surname": "Oyarzabal Ugarte",
+      "position": "LW",
+      "rating": 85,
+      "birthdate": "4/21/1997",
+      "number": 4,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jorge",
+      "surname": "Resurrecci\u00f3n",
+      "position": "CM",
+      "rating": 85,
+      "birthdate": "1/8/1992",
+      "number": 75,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "Carvajal Ramos",
+      "position": "RB",
+      "rating": 85,
+      "birthdate": "1/11/1992",
+      "number": 95,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "David",
+      "surname": "De Gea Quintana",
+      "position": "GK",
+      "rating": 84,
+      "birthdate": "11/7/1990",
+      "number": 26,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jes\u00fas",
+      "surname": "Navas Gonz\u00e1lez",
+      "position": "RB",
+      "rating": 84,
+      "birthdate": "11/21/1985",
+      "number": 60,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Iago",
+      "surname": "Aspas Juncal",
+      "position": "ST",
+      "rating": 84,
+      "birthdate": "8/1/1987",
+      "number": 34,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Luis Alberto",
+      "surname": "Romero Alconchel",
+      "position": "CAM",
+      "rating": 84,
+      "birthdate": "9/28/1992",
+      "number": 3,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Gerard",
+      "surname": "Piqu\u00e9 Bernabeu",
+      "position": "CB",
+      "rating": 84,
+      "birthdate": "2/2/1987",
+      "number": 14,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Mikel",
+      "surname": "Merino Zaz\u00f3n",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "6/22/1996",
+      "number": 39,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Sergio",
+      "surname": "Canales Madrazo",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "2/16/1991",
+      "number": 84,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Sergio",
+      "surname": "Asenjo Andr\u00e9s",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": "6/28/1989",
+      "number": 17,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 \u00c1ngel",
+      "surname": "Esmoris Tasende",
+      "position": "LWB",
+      "rating": 83,
+      "birthdate": "1/4/1997",
+      "number": 29,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 Lu\u00eds",
+      "surname": "Gay\u00e0 Pe\u00f1a",
+      "position": "LB",
+      "rating": 83,
+      "birthdate": "5/25/1995",
+      "number": 72,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Iker",
+      "surname": "Muniain Go\u00f1i",
+      "position": "CAM",
+      "rating": 83,
+      "birthdate": "12/19/1992",
+      "number": 21,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Marco",
+      "surname": "Asensio Willemsen",
+      "position": "RW",
+      "rating": 83,
+      "birthdate": "1/21/1996",
+      "number": 59,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "C\u00e9sar",
+      "surname": "Azpilicueta Tanco",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "8/28/1989",
+      "number": 51,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "\u00c1lvaro Borja",
+      "surname": "Morata Mart\u00edn",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "10/23/1992",
+      "number": 61,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Portugues Manzanera",
+      "position": "RW",
+      "rating": 82,
+      "birthdate": "5/21/1992",
+      "number": 79,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Yuri",
+      "surname": "Berchiche Izeta",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "2/10/1990",
+      "number": 55,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Sa\u00fal",
+      "surname": "\u00d1\u00edguez Escl\u00e1pez",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "11/21/1994",
+      "number": 32,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Alejandro",
+      "surname": "Grimaldo Garc\u00eda",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "9/20/1995",
+      "number": 24,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Juan",
+      "surname": "Bernat Velasco",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "3/1/1993",
+      "number": 25,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Unai",
+      "surname": "Sim\u00f3n Mendibil",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "6/11/1997",
+      "number": 50,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9",
+      "surname": "G\u00f3mez Campa\u00f1a",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "5/31/1993",
+      "number": 62,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Fabi\u00e1n",
+      "surname": "Ruiz Pe\u00f1a",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "4/3/1996",
+      "number": 91,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Mario",
+      "surname": "Hermoso Canseco",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "6/18/1995",
+      "number": 37,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Francisco Rom\u00e1n",
+      "surname": "Alarc\u00f3n Su\u00e1rez",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "4/21/1992",
+      "number": 56,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Ferran",
+      "surname": "Torres Garc\u00eda",
+      "position": "RW",
+      "rating": 82,
+      "birthdate": "2/29/2000",
+      "number": 10,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "Olmo Carvajal",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "5/7/1998",
+      "number": 86,
+      "team": "Spain",
+      "statistics": []
+    },
+    {
+      "name": "Pau",
+      "surname": "Francisco Torres",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "1/16/1997",
+      "number": 97,
+      "team": "Spain",
+      "statistics": []
+    }
+  ],
+  "Switzerland": [
+    {
+      "name": "Yann",
+      "surname": "Sommer",
+      "position": "GK",
+      "rating": 85,
+      "birthdate": "12/17/1988",
+      "number": 73,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Denis",
+      "surname": "Zakaria",
+      "position": "CDM",
+      "rating": 80,
+      "birthdate": "11/20/1996",
+      "number": 69,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Remo",
+      "surname": "Freuler",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "4/15/1992",
+      "number": 74,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Roman",
+      "surname": "B\u00fcrki",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "11/14/1990",
+      "number": 38,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Manuel",
+      "surname": "Akanji",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "7/19/1995",
+      "number": 98,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Kevin",
+      "surname": "Mbabu",
+      "position": "RB",
+      "rating": 79,
+      "birthdate": "4/19/1995",
+      "number": 71,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Xherdan",
+      "surname": "Shaqiri",
+      "position": "RW",
+      "rating": 79,
+      "birthdate": "10/10/1991",
+      "number": 70,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Gregor",
+      "surname": "Kobel",
+      "position": "GK",
+      "rating": 79,
+      "birthdate": "12/6/1997",
+      "number": 27,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Granit",
+      "surname": "Xhaka",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "9/27/1992",
+      "number": 1,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Nico",
+      "surname": "Elvedi",
+      "position": "CB",
+      "rating": 79,
+      "birthdate": "9/30/1996",
+      "number": 96,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Marwin",
+      "surname": "Hitz",
+      "position": "GK",
+      "rating": 78,
+      "birthdate": "9/18/1987",
+      "number": 20,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Haris",
+      "surname": "Seferovi\u0107",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "2/22/1992",
+      "number": 8,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Renato",
+      "surname": "Steffen",
+      "position": "LM",
+      "rating": 78,
+      "birthdate": "11/3/1991",
+      "number": 32,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Djibril",
+      "surname": "Sow",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "2/6/1997",
+      "number": 86,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Breel",
+      "surname": "Embolo",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "2/14/1997",
+      "number": 48,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Jonas",
+      "surname": "Omlin",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "1/10/1994",
+      "number": 56,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Fabian",
+      "surname": "Schar",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 2,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Ricardo",
+      "surname": "Rodriguez",
+      "position": "LB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Fabian",
+      "surname": "Lustenberger",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 4,
+      "team": "Switzerland",
+      "statistics": []
+    },
+    {
+      "name": "Silvan",
+      "surname": "Widmer",
+      "position": "RB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 5,
+      "team": "Switzerland",
+      "statistics": []
+    }
+  ],
+  "Argentina": [
+    {
+      "name": "Lionel",
+      "surname": "Messi",
+      "position": "RW",
+      "rating": 93,
+      "birthdate": "6/24/1987",
+      "number": 92,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Sergio",
+      "surname": "Ag\u00fcero",
+      "position": "ST",
+      "rating": 87,
+      "birthdate": "6/2/1988",
+      "number": 79,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Paulo",
+      "surname": "Dybala",
+      "position": "SS",
+      "rating": 87,
+      "birthdate": "11/15/1993",
+      "number": 64,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "\u00c1ngel",
+      "surname": "Di Mar\u00eda",
+      "position": "RW",
+      "rating": 87,
+      "birthdate": "2/14/1988",
+      "number": 47,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Lautaro",
+      "surname": "Mart\u00ednez",
+      "position": "ST",
+      "rating": 85,
+      "birthdate": "8/22/1997",
+      "number": 13,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Alejandro",
+      "surname": "G\u00f3mez",
+      "position": "CAM",
+      "rating": 85,
+      "birthdate": "2/15/1988",
+      "number": 34,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Marcos",
+      "surname": "Acu\u00f1a",
+      "position": "LB",
+      "rating": 84,
+      "birthdate": "10/28/1991",
+      "number": 2,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Emiliano",
+      "surname": "Mart\u00ednez",
+      "position": "GK",
+      "rating": 84,
+      "birthdate": "9/2/1992",
+      "number": 91,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Ocampos",
+      "position": "LW",
+      "rating": 83,
+      "birthdate": "7/11/1994",
+      "number": 31,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "\u00c1ngel",
+      "surname": "Correa",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "3/9/1995",
+      "number": 61,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Mauro",
+      "surname": "Icardi",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "2/19/1993",
+      "number": 77,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Rodrigo Javier",
+      "surname": "De Paul",
+      "position": "CM",
+      "rating": 82,
+      "birthdate": "5/24/1994",
+      "number": 80,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "\u00c9ver",
+      "surname": "Banega",
+      "position": "CDM",
+      "rating": 82,
+      "birthdate": "6/29/1988",
+      "number": 43,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Nicol\u00e1s",
+      "surname": "Tagliafico",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "8/31/1992",
+      "number": 28,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Romero",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "4/27/1998",
+      "number": 37,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Giovani",
+      "surname": "Lo Celso",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "4/9/1996",
+      "number": 71,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Leandro",
+      "surname": "Paredes",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "6/29/1994",
+      "number": 4,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Agust\u00edn",
+      "surname": "Marches\u00edn",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "3/16/1988",
+      "number": 59,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Juan",
+      "surname": "Musso",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "5/6/1994",
+      "number": 58,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Joaqu\u00edn",
+      "surname": "Correa",
+      "position": "SS",
+      "rating": 81,
+      "birthdate": "8/13/1994",
+      "number": 55,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Nicol\u00e1s",
+      "surname": "Otamendi",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "2/12/1988",
+      "number": 24,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Gonzalo",
+      "surname": "Higua\u00edn",
+      "position": "ST",
+      "rating": 81,
+      "birthdate": "12/10/1987",
+      "number": 46,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Roberto",
+      "surname": "Pereyra",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "1/7/1991",
+      "number": 73,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Ger\u00f3nimo",
+      "surname": "Rulli",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "5/20/1992",
+      "number": 33,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Esteban",
+      "surname": "Andrada",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "1/26/1991",
+      "number": 9,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Eduardo",
+      "surname": "Salvio",
+      "position": "RM",
+      "rating": 80,
+      "birthdate": "7/13/1990",
+      "number": 82,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Enzo",
+      "surname": "P\u00e9rez",
+      "position": "CDM",
+      "rating": 80,
+      "birthdate": "2/22/1986",
+      "number": 14,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Walter",
+      "surname": "Ben\u00edtez",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "1/19/1993",
+      "number": 90,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Franco",
+      "surname": "Armani",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "10/16/1986",
+      "number": 44,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Emiliano",
+      "surname": "Buend\u00eda",
+      "position": "RM",
+      "rating": 79,
+      "birthdate": "12/25/1996",
+      "number": 94,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Nahuel",
+      "surname": "Guzm\u00e1n",
+      "position": "GK",
+      "rating": 79,
+      "birthdate": "2/10/1986",
+      "number": 30,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Lisandro",
+      "surname": "Mart\u00ednez",
+      "position": "CB",
+      "rating": 79,
+      "birthdate": "1/18/1998",
+      "number": 99,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Mat\u00edas",
+      "surname": "Su\u00e1rez",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "5/9/1988",
+      "number": 57,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Ezequiel",
+      "surname": "\u00c1vila",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "2/6/1994",
+      "number": 97,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Luis Miguel",
+      "surname": "Rodr\u00edguez",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "1/1/1985",
+      "number": 54,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Marcos",
+      "surname": "Senesi",
+      "position": "CB",
+      "rating": 79,
+      "birthdate": "5/10/1997",
+      "number": 78,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Pav\u00f3n",
+      "position": "LW",
+      "rating": 78,
+      "birthdate": "1/21/1996",
+      "number": 29,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Gonzalo",
+      "surname": "Montiel",
+      "position": "RB",
+      "rating": 78,
+      "birthdate": "1/1/1997",
+      "number": 51,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Ansaldi",
+      "position": "LWB",
+      "rating": 78,
+      "birthdate": "9/20/1986",
+      "number": 53,
+      "team": "Argentina",
+      "statistics": []
+    },
+    {
+      "name": "Erik",
+      "surname": "Lamela",
+      "position": "RM",
+      "rating": 78,
+      "birthdate": "3/4/1992",
+      "number": 93,
+      "team": "Argentina",
+      "statistics": []
+    }
+  ],
+  "Brazil": [
+    {
+      "name": "Neymar",
+      "surname": "da Silva Santos Jr.",
+      "position": "LW",
+      "rating": 91,
+      "birthdate": "2/5/1992",
+      "number": 14,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Alisson",
+      "surname": "Ramses Becker",
+      "position": "GK",
+      "rating": 89,
+      "birthdate": "10/2/1992",
+      "number": 31,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Carlos Henrique",
+      "surname": "Venancio Casimiro",
+      "position": "CDM",
+      "rating": 89,
+      "birthdate": "2/23/1992",
+      "number": 73,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Ederson",
+      "surname": "Santana de Moraes",
+      "position": "GK",
+      "rating": 89,
+      "birthdate": "8/17/1993",
+      "number": 52,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Marcos",
+      "surname": "Ao\u00e1s Corr\u00eaa",
+      "position": "CB",
+      "rating": 87,
+      "birthdate": "5/14/1994",
+      "number": 91,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "F\u00e1bio",
+      "surname": "Henrique Tavares",
+      "position": "CDM",
+      "rating": 86,
+      "birthdate": "10/23/1993",
+      "number": 88,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Thiago Emiliano",
+      "surname": "da Silva",
+      "position": "CB",
+      "rating": 85,
+      "birthdate": "9/22/1984",
+      "number": 98,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Roberto Firmino",
+      "surname": "Barbosa de Oliveira",
+      "position": "SS",
+      "rating": 85,
+      "birthdate": "10/2/1991",
+      "number": 34,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Fernando",
+      "surname": "Reges",
+      "position": "CDM",
+      "rating": 84,
+      "birthdate": "7/25/1987",
+      "number": 11,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Felipe Augusto",
+      "surname": "de Almeida Monteiro",
+      "position": "CB",
+      "rating": 84,
+      "birthdate": "5/16/1989",
+      "number": 8,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 Paulo",
+      "surname": "Bezerra M. J\u00fanior",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "7/25/1988",
+      "number": 96,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Allan",
+      "surname": "Marques Loureiro",
+      "position": "CDM",
+      "rating": 83,
+      "birthdate": "1/8/1991",
+      "number": 75,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Alex Sandro",
+      "surname": "Lobo Silva",
+      "position": "LB",
+      "rating": 83,
+      "birthdate": "1/26/1991",
+      "number": 41,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Arthur Henrique",
+      "surname": "Ramos Oliveira Melo",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "8/12/1996",
+      "number": 33,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Fernando Luiz",
+      "surname": "Rosa",
+      "position": "CDM",
+      "rating": 83,
+      "birthdate": "5/4/1985",
+      "number": 42,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Gabriel",
+      "surname": "Fernando de Jesus",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "4/3/1997",
+      "number": 22,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Alex",
+      "surname": "Nicolao Telles",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "12/15/1992",
+      "number": 5,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Norberto",
+      "surname": "Murara Neto",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "7/19/1989",
+      "number": 40,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Anderson",
+      "surname": "Souza Concei\u00e7\u00e3o",
+      "position": "SS",
+      "rating": 82,
+      "birthdate": "2/1/1994",
+      "number": 71,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Richarlison",
+      "surname": "de Andrade",
+      "position": "ST",
+      "rating": 82,
+      "birthdate": "5/10/1997",
+      "number": 1,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Raphael",
+      "surname": "Dias Belloli",
+      "position": "RM",
+      "rating": 82,
+      "birthdate": "12/14/1996",
+      "number": 95,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Oscar",
+      "surname": "dos Santos Emboaba",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "9/9/1991",
+      "number": 25,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "\u00c9der",
+      "surname": "Gabriel Milit\u00e3o",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "1/18/1998",
+      "number": 58,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Philippe",
+      "surname": "Coutinho Correia",
+      "position": "CAM",
+      "rating": 82,
+      "birthdate": "6/12/1992",
+      "number": 62,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Gabriel",
+      "surname": "Armando de Abreu",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "11/26/1990",
+      "number": 9,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Diego Carlos",
+      "surname": "Santos Silva",
+      "position": "CB",
+      "rating": 82,
+      "birthdate": "3/15/1993",
+      "number": 66,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Renan Augusto",
+      "surname": "Lodi dos Santos",
+      "position": "LB",
+      "rating": 81,
+      "birthdate": "4/8/1998",
+      "number": 84,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Lucas Tolentino",
+      "surname": "Coelho de Lima",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "8/27/1997",
+      "number": 30,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Danilo Luiz",
+      "surname": "da Silva",
+      "position": "RB",
+      "rating": 81,
+      "birthdate": "7/15/1991",
+      "number": 89,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Frederico",
+      "surname": "de Paula Santos",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "3/5/1993",
+      "number": 93,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Ot\u00e1vio Edmilson",
+      "surname": "da Silva Monteiro",
+      "position": "LM",
+      "rating": 81,
+      "birthdate": "2/9/1995",
+      "number": 38,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Rodrigues M. Silva",
+      "position": "RM",
+      "rating": 81,
+      "birthdate": "8/13/1992",
+      "number": 6,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Pezzini Leiva",
+      "position": "CDM",
+      "rating": 81,
+      "birthdate": "1/9/1987",
+      "number": 7,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Marcelo",
+      "surname": "Vieira da Silva",
+      "position": "LB",
+      "rating": 80,
+      "birthdate": "5/12/1988",
+      "number": 65,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Gerson",
+      "surname": "Santos da Silva",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "5/20/1997",
+      "number": 45,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Ismaily",
+      "surname": "Gon\u00e7alves dos S.",
+      "position": "LB",
+      "rating": 80,
+      "birthdate": "1/11/1990",
+      "number": 15,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Rafael",
+      "surname": "Alc\u00e2ntara",
+      "position": "CM",
+      "rating": 80,
+      "birthdate": "2/12/1993",
+      "number": 92,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Jo\u00e3o Pedro",
+      "surname": "G. Santos Galv\u00e3o",
+      "position": "SS",
+      "rating": 80,
+      "birthdate": "3/9/1992",
+      "number": 26,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Vin\u00edcius Jos\u00e9",
+      "surname": "de Oliveira J\u00fanior",
+      "position": "LW",
+      "rating": 80,
+      "birthdate": "7/12/2000",
+      "number": 23,
+      "team": "Brazil",
+      "statistics": []
+    },
+    {
+      "name": "Everton",
+      "surname": "Sousa Soares",
+      "position": "LM",
+      "rating": 80,
+      "birthdate": "3/22/1996",
+      "number": 87,
+      "team": "Brazil",
+      "statistics": []
+    }
+  ],
+  "Ecuador": [
+    {
+      "name": "Pervis",
+      "surname": "Estupi\u00f1\u00e1n",
+      "position": "LB",
+      "rating": 79,
+      "birthdate": "1/21/1998",
+      "number": 21,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Felipe",
+      "surname": "Caicedo",
+      "position": "SS",
+      "rating": 78,
+      "birthdate": "9/5/1988",
+      "number": 54,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "\u00c1ngel",
+      "surname": "Mena",
+      "position": "RM",
+      "rating": 78,
+      "birthdate": "1/21/1988",
+      "number": 92,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Pedro",
+      "surname": "Ortiz",
+      "position": "GK",
+      "rating": 71,
+      "birthdate": null,
+      "number": 1,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Wellington",
+      "surname": "Ramirez",
+      "position": "GK",
+      "rating": 67,
+      "birthdate": null,
+      "number": 2,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Piero",
+      "surname": "Hincapie",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": null,
+      "number": 3,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Felix",
+      "surname": "Torres",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 4,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Byron",
+      "surname": "Castillo",
+      "position": "RB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 5,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Mario",
+      "surname": "Pineida",
+      "position": "LB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 6,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Luis Fernando",
+      "surname": "Castillo",
+      "position": "CB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 7,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Damian",
+      "surname": "Diaz",
+      "position": "CAM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 8,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Junior",
+      "surname": "Sornoza",
+      "position": "CAM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 9,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Carlos",
+      "surname": "Gruezo",
+      "position": "CDM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 10,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Efren",
+      "surname": "Mera",
+      "position": "CAM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 11,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Jose",
+      "surname": "Cifuentes",
+      "position": "CDM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 12,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Fidel",
+      "surname": "Martinez",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 13,
+      "team": "Ecuador",
+      "statistics": []
+    },
+    {
+      "name": "Enner",
+      "surname": "Valencia",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 14,
+      "team": "Ecuador",
+      "statistics": []
+    }
+  ],
+  "Uruguay": [
+    {
+      "name": "Luis",
+      "surname": "Su\u00e1rez",
+      "position": "ST",
+      "rating": 88,
+      "birthdate": "1/24/1987",
+      "number": 73,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Edinson",
+      "surname": "Cavani",
+      "position": "ST",
+      "rating": 85,
+      "birthdate": "2/14/1987",
+      "number": 32,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Jos\u00e9 Mar\u00eda",
+      "surname": "Gim\u00e9nez",
+      "position": "CB",
+      "rating": 84,
+      "birthdate": "1/20/1995",
+      "number": 82,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Federico",
+      "surname": "Valverde",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "7/22/1998",
+      "number": 18,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Sebasti\u00e1n",
+      "surname": "Coates",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "10/7/1990",
+      "number": 12,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Fernando",
+      "surname": "Muslera",
+      "position": "GK",
+      "rating": 81,
+      "birthdate": "6/16/1986",
+      "number": 33,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Torreira",
+      "position": "CDM",
+      "rating": 80,
+      "birthdate": "2/11/1996",
+      "number": 4,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Nicol\u00e1s",
+      "surname": "Lodeiro",
+      "position": "CAM",
+      "rating": 80,
+      "birthdate": "3/21/1989",
+      "number": 39,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Jonathan",
+      "surname": "Rodr\u00edguez",
+      "position": "ST",
+      "rating": 80,
+      "birthdate": "7/6/1993",
+      "number": 95,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Maximiliano",
+      "surname": "G\u00f3mez",
+      "position": "ST",
+      "rating": 80,
+      "birthdate": "8/14/1996",
+      "number": 98,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Diego",
+      "surname": "God\u00edn",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "2/16/1986",
+      "number": 68,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Mauro",
+      "surname": "Arambarri",
+      "position": "CDM",
+      "rating": 79,
+      "birthdate": "9/30/1995",
+      "number": 7,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Nicol\u00e1s",
+      "surname": "De la Cruz",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "6/1/1997",
+      "number": 42,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Rodrigo",
+      "surname": "Bentancur",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "6/25/1997",
+      "number": 27,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Dami\u00e1n",
+      "surname": "Su\u00e1rez",
+      "position": "RB",
+      "rating": 78,
+      "birthdate": "4/27/1988",
+      "number": 45,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Olaza",
+      "position": "LB",
+      "rating": 78,
+      "birthdate": "7/21/1994",
+      "number": 54,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Matias",
+      "surname": "Vecino",
+      "position": "CM",
+      "rating": 78,
+      "birthdate": "8/24/1991",
+      "number": 60,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Sebasti\u00e1n",
+      "surname": "Sosa",
+      "position": "GK",
+      "rating": 78,
+      "birthdate": "8/19/1986",
+      "number": 3,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Nahitan",
+      "surname": "N\u00e1ndez",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "12/28/1995",
+      "number": 66,
+      "team": "Uruguay",
+      "statistics": []
+    },
+    {
+      "name": "Fernando",
+      "surname": "Gorriar\u00e1n",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": "11/27/1994",
+      "number": 15,
+      "team": "Uruguay",
+      "statistics": []
+    }
+  ],
+  "Canada": [
+    {
+      "name": "Alphonso",
+      "surname": "Davies",
+      "position": "LB",
+      "rating": 82,
+      "birthdate": "11/2/2000",
+      "number": 16,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Jonathan",
+      "surname": "David",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "1/14/2000",
+      "number": 90,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Maxime",
+      "surname": "Crepeau",
+      "position": "GK",
+      "rating": 72,
+      "birthdate": null,
+      "number": 51,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Dayne",
+      "surname": "St. Clair",
+      "position": "GK",
+      "rating": 68,
+      "birthdate": null,
+      "number": 52,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Sam",
+      "surname": "Adekugbe",
+      "position": "LB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 53,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Richie",
+      "surname": "Laryea",
+      "position": "RB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 54,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Doneil",
+      "surname": "Henry",
+      "position": "CB",
+      "rating": 70,
+      "birthdate": null,
+      "number": 55,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Zachary",
+      "surname": "Brault-Guillard",
+      "position": "RWB",
+      "rating": 68,
+      "birthdate": null,
+      "number": 56,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Kamal",
+      "surname": "Miller",
+      "position": "CB",
+      "rating": 68,
+      "birthdate": null,
+      "number": 57,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Stephen",
+      "surname": "Eustaquio",
+      "position": "CDM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 58,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Atiba",
+      "surname": "Hutchinson",
+      "position": "CDM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 59,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Scott",
+      "surname": "Arfield",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 60,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Jonathan",
+      "surname": "Osorio",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 61,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Mark-Anthony",
+      "surname": "Kaye",
+      "position": "CM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 62,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Samuel",
+      "surname": "Piette",
+      "position": "CDM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 63,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Cyle",
+      "surname": "Larin",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 64,
+      "team": "Canada",
+      "statistics": []
+    },
+    {
+      "name": "Lucas",
+      "surname": "Cavallini",
+      "position": "ST",
+      "rating": 73,
+      "birthdate": null,
+      "number": 65,
+      "team": "Canada",
+      "statistics": []
+    }
+  ],
+  "Mexico": [
+    {
+      "name": "Ra\u00fal",
+      "surname": "Jim\u00e9nez",
+      "position": "ST",
+      "rating": 83,
+      "birthdate": "5/5/1991",
+      "number": 34,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Carlos",
+      "surname": "Vela",
+      "position": "RW",
+      "rating": 83,
+      "birthdate": "3/1/1989",
+      "number": 47,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Jes\u00fas",
+      "surname": "Corona",
+      "position": "RM",
+      "rating": 82,
+      "birthdate": "1/6/1993",
+      "number": 16,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "H\u00e9ctor",
+      "surname": "Herrera",
+      "position": "CM",
+      "rating": 81,
+      "birthdate": "4/19/1990",
+      "number": 85,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Hirving",
+      "surname": "Lozano",
+      "position": "RW",
+      "rating": 81,
+      "birthdate": "7/30/1995",
+      "number": 12,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Guillermo",
+      "surname": "Ochoa",
+      "position": "GK",
+      "rating": 80,
+      "birthdate": "7/13/1985",
+      "number": 66,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Luis",
+      "surname": "Rodr\u00edguez",
+      "position": "RB",
+      "rating": 78,
+      "birthdate": "1/21/1991",
+      "number": 8,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Alfredo",
+      "surname": "Talavera",
+      "position": "GK",
+      "rating": 78,
+      "birthdate": "9/18/1982",
+      "number": 68,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Andr\u00e9s",
+      "surname": "Guardado",
+      "position": "CDM",
+      "rating": 78,
+      "birthdate": "9/28/1986",
+      "number": 60,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Javier",
+      "surname": "Hern\u00e1ndez",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "6/1/1988",
+      "number": 21,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Orbel\u00edn",
+      "surname": "Pineda",
+      "position": "RM",
+      "rating": 77,
+      "birthdate": "3/24/1996",
+      "number": 29,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Jonathan",
+      "surname": "dos Santos",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "4/26/1990",
+      "number": 30,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Luis",
+      "surname": "Romo",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": "6/5/1995",
+      "number": 15,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Luis",
+      "surname": "Montes",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "5/15/1986",
+      "number": 1,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Rogelio",
+      "surname": "Funes Mori",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "3/5/1991",
+      "number": 35,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Edson",
+      "surname": "\u00c1lvarez",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": "10/24/1997",
+      "number": 33,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Hector",
+      "surname": "Moreno",
+      "position": "CB",
+      "rating": 77,
+      "birthdate": null,
+      "number": 1,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Hector",
+      "surname": "Araujo",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 2,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Jorge",
+      "surname": "Sanchez",
+      "position": "RB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Jesus",
+      "surname": "Gallardo",
+      "position": "LB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 4,
+      "team": "Mexico",
+      "statistics": []
+    },
+    {
+      "name": "Cesar",
+      "surname": "Montes",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 5,
+      "team": "Mexico",
+      "statistics": []
+    }
+  ],
+  "USA": [
+    {
+      "name": "Christian",
+      "surname": "Pulisic",
+      "position": "LW",
+      "rating": 82,
+      "birthdate": "9/18/1998",
+      "number": 46,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "John",
+      "surname": "Brooks",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "1/28/1993",
+      "number": 77,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Weston",
+      "surname": "McKennie",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "8/28/1998",
+      "number": 62,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Zack",
+      "surname": "Steffen",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "4/2/1995",
+      "number": 98,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Tyler",
+      "surname": "Adams",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": "2/14/1999",
+      "number": 24,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Giovanni",
+      "surname": "Reyna",
+      "position": "CAM",
+      "rating": 77,
+      "birthdate": "11/13/2002",
+      "number": 79,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Matt",
+      "surname": "Turner",
+      "position": "GK",
+      "rating": 75,
+      "birthdate": null,
+      "number": 70,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Sergino",
+      "surname": "Dest",
+      "position": "RB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 71,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Aaron",
+      "surname": "Long",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 72,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Walker",
+      "surname": "Zimmerman",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 73,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Reggie",
+      "surname": "Cannon",
+      "position": "RB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 74,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Antonee",
+      "surname": "Robinson",
+      "position": "LB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 75,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Roldan",
+      "position": "CDM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 76,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Darlington",
+      "surname": "Nagbe",
+      "position": "CDM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 77,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Djordje",
+      "surname": "Mihailovic",
+      "position": "CAM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 78,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Jordan",
+      "surname": "Siebatcheu",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": null,
+      "number": 79,
+      "team": "USA",
+      "statistics": []
+    },
+    {
+      "name": "Jesus",
+      "surname": "Ferreira",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": null,
+      "number": 80,
+      "team": "USA",
+      "statistics": []
+    }
+  ],
+  "Cameroon": [
+    {
+      "name": "Joel",
+      "surname": "Matip",
+      "position": "CB",
+      "rating": 83,
+      "birthdate": "8/8/1991",
+      "number": 9,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Karl",
+      "surname": "Toko Ekambi",
+      "position": "LW",
+      "rating": 78,
+      "birthdate": "9/14/1992",
+      "number": 34,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Jean-Pierre",
+      "surname": "Nsame",
+      "position": "ST",
+      "rating": 78,
+      "birthdate": "5/1/1993",
+      "number": 13,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Vincent",
+      "surname": "Aboubakar",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "1/22/1992",
+      "number": 39,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Andre",
+      "surname": "Onana",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": null,
+      "number": 1,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Simon",
+      "surname": "Ngapandouetnbu",
+      "position": "GK",
+      "rating": 66,
+      "birthdate": null,
+      "number": 2,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Nicolas",
+      "surname": "Nkoulou",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": null,
+      "number": 3,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Harold",
+      "surname": "Moukoudi",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 4,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Ambroise",
+      "surname": "Oyongo",
+      "position": "LB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 5,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Jean-Charles",
+      "surname": "Castelletto",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 6,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Collins",
+      "surname": "Fai",
+      "position": "RB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 7,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Andre-Franck",
+      "surname": "Zambo Anguissa",
+      "position": "CM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 8,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Yvan",
+      "surname": "Neyou",
+      "position": "CDM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 9,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Yan Brice",
+      "surname": "Eteki",
+      "position": "CDM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 10,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Martin",
+      "surname": "Hongla",
+      "position": "CM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 11,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "Kunde",
+      "surname": "Malong",
+      "position": "CDM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 12,
+      "team": "Cameroon",
+      "statistics": []
+    },
+    {
+      "name": "James",
+      "surname": "Lea Siliki",
+      "position": "CM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 13,
+      "team": "Cameroon",
+      "statistics": []
+    }
+  ],
+  "Ghana": [
+    {
+      "name": "Thomas",
+      "surname": "Partey",
+      "position": "CM",
+      "rating": 83,
+      "birthdate": "6/13/1993",
+      "number": 56,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Kevin-Prince",
+      "surname": "Boateng",
+      "position": "CAM",
+      "rating": 78,
+      "birthdate": "3/6/1987",
+      "number": 44,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Kudus",
+      "position": "CAM",
+      "rating": 77,
+      "birthdate": "8/2/2000",
+      "number": 91,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Frank",
+      "surname": "Acheampong",
+      "position": "LW",
+      "rating": 77,
+      "birthdate": "10/16/1993",
+      "number": 5,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Richard",
+      "surname": "Ofori",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": null,
+      "number": 1,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Lawrence Ati",
+      "surname": "Zigi",
+      "position": "GK",
+      "rating": 70,
+      "birthdate": null,
+      "number": 2,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Salisu",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Alexander",
+      "surname": "Djiku",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 4,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Abdul Rahman",
+      "surname": "Baba",
+      "position": "LB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 5,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "Amartey",
+      "position": "RB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 6,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Joseph",
+      "surname": "Aidoo",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 7,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Andy",
+      "surname": "Yiadom",
+      "position": "RB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 8,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Alfred",
+      "surname": "Duncan",
+      "position": "CM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 9,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Bernard",
+      "surname": "Mensah",
+      "position": "CAM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 10,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Iddrisu",
+      "surname": "Baba",
+      "position": "CDM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 11,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Emmanuel",
+      "surname": "Boateng",
+      "position": "ST",
+      "rating": 76,
+      "birthdate": null,
+      "number": 12,
+      "team": "Ghana",
+      "statistics": []
+    },
+    {
+      "name": "Jordan",
+      "surname": "Ayew",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 13,
+      "team": "Ghana",
+      "statistics": []
+    }
+  ],
+  "Morocco": [
+    {
+      "name": "Achraf",
+      "surname": "Hakimi",
+      "position": "RB",
+      "rating": 85,
+      "birthdate": "11/4/1998",
+      "number": 60,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Hakim",
+      "surname": "Ziyech",
+      "position": "RW",
+      "rating": 84,
+      "birthdate": "3/19/1993",
+      "number": 46,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Yassine",
+      "surname": "Bounou",
+      "position": "GK",
+      "rating": 82,
+      "birthdate": "4/5/1991",
+      "number": 69,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Youssef",
+      "surname": "En-Nesyri",
+      "position": "ST",
+      "rating": 82,
+      "birthdate": "6/1/1997",
+      "number": 6,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Medhi",
+      "surname": "Benatia",
+      "position": "CB",
+      "rating": 81,
+      "birthdate": "4/17/1987",
+      "number": 49,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Noussair",
+      "surname": "Mazraoui",
+      "position": "RB",
+      "rating": 80,
+      "birthdate": "11/14/1997",
+      "number": 25,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Zouhair",
+      "surname": "Feddal",
+      "position": "CB",
+      "rating": 80,
+      "birthdate": "12/23/1989",
+      "number": 47,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Munir",
+      "surname": "El Haddadi",
+      "position": "LW",
+      "rating": 79,
+      "birthdate": "9/1/1995",
+      "number": 42,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Youssef",
+      "surname": "El Arabi",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "2/3/1987",
+      "number": 32,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Romain",
+      "surname": "Sa\u00efss",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "3/26/1990",
+      "number": 70,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Adel",
+      "surname": "Taarabt",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "5/24/1989",
+      "number": 99,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Nayef",
+      "surname": "Aguerd",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 1,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Oussama",
+      "surname": "Tannane",
+      "position": "CAM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 2,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Faycal",
+      "surname": "Fajr",
+      "position": "CM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Sofyan",
+      "surname": "Amrabat",
+      "position": "CDM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 4,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Anuar",
+      "surname": "Anuar",
+      "position": "CDM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 5,
+      "team": "Morocco",
+      "statistics": []
+    },
+    {
+      "name": "Younes",
+      "surname": "Belhanda",
+      "position": "CM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 6,
+      "team": "Morocco",
+      "statistics": []
+    }
+  ],
+  "Senegal": [
+    {
+      "name": "Sadio",
+      "surname": "Man\u00e9",
+      "position": "LW",
+      "rating": 89,
+      "birthdate": "4/10/1992",
+      "number": 64,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Kalidou",
+      "surname": "Koulibaly",
+      "position": "CB",
+      "rating": 86,
+      "birthdate": "6/20/1991",
+      "number": 83,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "\u00c9douard",
+      "surname": "Mendy",
+      "position": "GK",
+      "rating": 83,
+      "birthdate": "3/1/1992",
+      "number": 37,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Idrissa",
+      "surname": "Gueye",
+      "position": "CDM",
+      "rating": 82,
+      "birthdate": "9/26/1989",
+      "number": 54,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Cheikhou",
+      "surname": "Kouyat\u00e9",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "12/21/1989",
+      "number": 18,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Abdou",
+      "surname": "Diallo",
+      "position": "CB",
+      "rating": 78,
+      "birthdate": "5/4/1996",
+      "number": 32,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Isma\u00efla",
+      "surname": "Sarr",
+      "position": "RW",
+      "rating": 78,
+      "birthdate": "2/25/1998",
+      "number": 1,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Alfred",
+      "surname": "Gomis",
+      "position": "GK",
+      "rating": 76,
+      "birthdate": null,
+      "number": 1,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Pape Abou",
+      "surname": "Cisse",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 2,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Salif",
+      "surname": "Sane",
+      "position": "CB",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Youssouf",
+      "surname": "Sabaly",
+      "position": "RB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 4,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Nampalys",
+      "surname": "Mendy",
+      "position": "CDM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 5,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Abdoulaye",
+      "surname": "Seck",
+      "position": "CM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 6,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Alfred",
+      "surname": "N'DIAYE",
+      "position": "CDM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 7,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Younousse",
+      "surname": "Sankhare",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 8,
+      "team": "Senegal",
+      "statistics": []
+    },
+    {
+      "name": "Habib",
+      "surname": "Diallo",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 9,
+      "team": "Senegal",
+      "statistics": []
+    }
+  ],
+  "Tunisia": [
+    {
+      "name": "Ellyes",
+      "surname": "Skhiri",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": "5/10/1995",
+      "number": 34,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Wahbi",
+      "surname": "Khazri",
+      "position": "ST",
+      "rating": 76,
+      "birthdate": null,
+      "number": 1,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Dylan",
+      "surname": "Bronn",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 2,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Naim",
+      "surname": "Sliti",
+      "position": "LM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 3,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Saad",
+      "surname": "Bguir",
+      "position": "CAM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 4,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Yoann",
+      "surname": "Touzghar",
+      "position": "ST",
+      "rating": 72,
+      "birthdate": null,
+      "number": 5,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Jeremy",
+      "surname": "Dudziak",
+      "position": "CAM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 6,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Saif-Eddine",
+      "surname": "Khaoui",
+      "position": "CAM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 7,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Ali",
+      "surname": "Abdi",
+      "position": "RB",
+      "rating": 70,
+      "birthdate": null,
+      "number": 8,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Oussama",
+      "surname": "Haddadi",
+      "position": "LB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 9,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Yassine",
+      "surname": "Meriah",
+      "position": "CB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 10,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Mohamed",
+      "surname": "Drager",
+      "position": "RB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 11,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Bassem",
+      "surname": "Srarfi",
+      "position": "LM",
+      "rating": 67,
+      "birthdate": null,
+      "number": 12,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Amor",
+      "surname": "Layouni",
+      "position": "LW",
+      "rating": 69,
+      "birthdate": null,
+      "number": 13,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Sebastian",
+      "surname": "Tounekti",
+      "position": "GK",
+      "rating": 60,
+      "birthdate": null,
+      "number": 14,
+      "team": "Tunisia",
+      "statistics": []
+    },
+    {
+      "name": "Mortadha",
+      "surname": "Ouanes",
+      "position": "GK",
+      "rating": 65,
+      "birthdate": null,
+      "number": 15,
+      "team": "Tunisia",
+      "statistics": []
+    }
+  ],
+  "Iran": [
+    {
+      "name": "Mehdi",
+      "surname": "Taremi",
+      "position": "ST",
+      "rating": 79,
+      "birthdate": "7/18/1992",
+      "number": 90,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Karim",
+      "surname": "Ansarifard",
+      "position": "ST",
+      "rating": 74,
+      "birthdate": null,
+      "number": 1,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Kaveh",
+      "surname": "Rezaei",
+      "position": "ST",
+      "rating": 72,
+      "birthdate": null,
+      "number": 2,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Amir",
+      "surname": "Abedzadeh",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": null,
+      "number": 3,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Alireza",
+      "surname": "Beiranvand",
+      "position": "GK",
+      "rating": 70,
+      "birthdate": null,
+      "number": 4,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Ali",
+      "surname": "Gholizadeh",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": null,
+      "number": 5,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Saman",
+      "surname": "Ghoddos",
+      "position": "CAM",
+      "rating": 70,
+      "birthdate": null,
+      "number": 6,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Saeid",
+      "surname": "Ezatolahi",
+      "position": "CDM",
+      "rating": 68,
+      "birthdate": null,
+      "number": 7,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Mohammad",
+      "surname": "Naderi",
+      "position": "RM",
+      "rating": 65,
+      "birthdate": null,
+      "number": 8,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Alireza",
+      "surname": "Jahanbakhsh",
+      "position": "RWB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 9,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Ehsan",
+      "surname": "Haji Safi",
+      "position": "LB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 10,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Sadegh",
+      "surname": "Moharrami",
+      "position": "RB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 11,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Steven",
+      "surname": "Beitashour",
+      "position": "RB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 12,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Morteza",
+      "surname": "Pouraliganji",
+      "position": "CB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 13,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Majid",
+      "surname": "Hosseini",
+      "position": "CB",
+      "rating": 67,
+      "birthdate": null,
+      "number": 14,
+      "team": "Iran",
+      "statistics": []
+    },
+    {
+      "name": "Ali",
+      "surname": "Alipour",
+      "position": "CM",
+      "rating": 66,
+      "birthdate": null,
+      "number": 15,
+      "team": "Iran",
+      "statistics": []
+    }
+  ],
+  "Japan": [
+    {
+      "name": "Daichi",
+      "surname": "Kamada",
+      "position": "CAM",
+      "rating": 79,
+      "birthdate": "8/5/1996",
+      "number": 7,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Wataru",
+      "surname": "Endo",
+      "position": "CDM",
+      "rating": 78,
+      "birthdate": "2/9/1993",
+      "number": 61,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Junya",
+      "surname": "Ito",
+      "position": "RW",
+      "rating": 77,
+      "birthdate": "3/9/1993",
+      "number": 54,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Takashi",
+      "surname": "Inui",
+      "position": "LM",
+      "rating": 78,
+      "birthdate": null,
+      "number": 1,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Makoto",
+      "surname": "Hasebe",
+      "position": "CDM",
+      "rating": 77,
+      "birthdate": null,
+      "number": 2,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Shoya",
+      "surname": "Nakajima",
+      "position": "RM",
+      "rating": 77,
+      "birthdate": null,
+      "number": 3,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Ritsu",
+      "surname": "Doan",
+      "position": "RM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 4,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Kaoru",
+      "surname": "Mitoma",
+      "position": "LW",
+      "rating": 73,
+      "birthdate": null,
+      "number": 5,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Yu",
+      "surname": "Kobayashi",
+      "position": "ST",
+      "rating": 73,
+      "birthdate": null,
+      "number": 6,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Eiji",
+      "surname": "Kawashima",
+      "position": "GK",
+      "rating": 71,
+      "birthdate": null,
+      "number": 7,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Masaaki",
+      "surname": "Higashiguchi",
+      "position": "GK",
+      "rating": 70,
+      "birthdate": null,
+      "number": 8,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Hiroki",
+      "surname": "Sakai",
+      "position": "RB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 9,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Takehiro",
+      "surname": "Tomiyasu",
+      "position": "CB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 10,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Ko",
+      "surname": "Itakura",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 11,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Maya",
+      "surname": "Yoshida",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 12,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Gen",
+      "surname": "Shoji",
+      "position": "CB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 13,
+      "team": "Japan",
+      "statistics": []
+    },
+    {
+      "name": "Miki",
+      "surname": "Yamane",
+      "position": "RB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 14,
+      "team": "Japan",
+      "statistics": []
+    }
+  ],
+  "South_Korea": [
+    {
+      "name": "Heung Min",
+      "surname": "Son",
+      "position": "LM",
+      "rating": 89,
+      "birthdate": "7/8/1992",
+      "number": 52,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Hyeon Woo",
+      "surname": "Jo",
+      "position": "GK",
+      "rating": 75,
+      "birthdate": null,
+      "number": 1,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Hyeon Mu",
+      "surname": "Kang",
+      "position": "GK",
+      "rating": 72,
+      "birthdate": null,
+      "number": 2,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Hwang Ui",
+      "surname": "Jo",
+      "position": "ST",
+      "rating": 76,
+      "birthdate": null,
+      "number": 3,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Hwang Hee",
+      "surname": "Chan",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": null,
+      "number": 4,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Lee Dong",
+      "surname": "Jun",
+      "position": "RW",
+      "rating": 70,
+      "birthdate": null,
+      "number": 5,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Kim Min",
+      "surname": "Jae",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 6,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Jang Hyeon",
+      "surname": "Soo",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": null,
+      "number": 7,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Kim ",
+      "surname": "Yun",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": null,
+      "number": 8,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Ki Sung",
+      "surname": "Yueng",
+      "position": "CM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 9,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Kim Tae",
+      "surname": "Hwan",
+      "position": "RB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 10,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Kang Sang",
+      "surname": "Woo",
+      "position": "LB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 11,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Hong",
+      "surname": "Chul",
+      "position": "LB",
+      "rating": 71,
+      "birthdate": null,
+      "number": 12,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Lee Jae",
+      "surname": "Sung",
+      "position": "CM",
+      "rating": 75,
+      "birthdate": null,
+      "number": 13,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Yoon Bit",
+      "surname": "Garam",
+      "position": "CM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 14,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Kwon Chang",
+      "surname": "Hoon",
+      "position": "RM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 15,
+      "team": "South_Korea",
+      "statistics": []
+    },
+    {
+      "name": "Han Kyo",
+      "surname": "Won",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 16,
+      "team": "South_Korea",
+      "statistics": []
+    }
+  ],
+  "Saudi_Arabia": [
+    {
+      "name": "Abdullah",
+      "surname": "Al Mayoof",
+      "position": "GK",
+      "rating": 68,
+      "birthdate": null,
+      "number": 1,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Mustafa",
+      "surname": "Maleka",
+      "position": "GK",
+      "rating": 66,
+      "birthdate": null,
+      "number": 2,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Yaser",
+      "surname": "Al Shahrani",
+      "position": "LB",
+      "rating": 75,
+      "birthdate": null,
+      "number": 4,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Abdulelah",
+      "surname": "Al Amri",
+      "position": "CB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 5,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Al Buraik",
+      "position": "RB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 6,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Sultan",
+      "surname": "Al Ghannam",
+      "position": "RB",
+      "rating": 72,
+      "birthdate": null,
+      "number": 3,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Saud",
+      "surname": "Abdulhamid",
+      "position": "RB",
+      "rating": 69,
+      "birthdate": null,
+      "number": 7,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Ahmed",
+      "surname": "Sharahili",
+      "position": "CB",
+      "rating": 68,
+      "birthdate": null,
+      "number": 11,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Salem",
+      "surname": "Al Dawsari",
+      "position": "LM",
+      "rating": 76,
+      "birthdate": null,
+      "number": 12,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Salman",
+      "surname": "Al Faraj",
+      "position": "CM",
+      "rating": 73,
+      "birthdate": null,
+      "number": 13,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Abdullah",
+      "surname": "Ateef",
+      "position": "CDM",
+      "rating": 71,
+      "birthdate": null,
+      "number": 14,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Kanno",
+      "position": "CDM",
+      "rating": 70,
+      "birthdate": null,
+      "number": 15,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Abdulmajeed",
+      "surname": "Al Sulayhim",
+      "position": "CM",
+      "rating": 69,
+      "birthdate": null,
+      "number": 16,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Abdulelah  ",
+      "surname": "Al Malki",
+      "position": "CM",
+      "rating": 69,
+      "birthdate": null,
+      "number": 17,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Saleh",
+      "surname": "Al Shehri",
+      "position": "ST",
+      "rating": 68,
+      "birthdate": null,
+      "number": 18,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Ali",
+      "surname": "Al Zaqan",
+      "position": "LW",
+      "rating": 65,
+      "birthdate": null,
+      "number": 19,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    },
+    {
+      "name": "Hazaa",
+      "surname": "Al Hazaa",
+      "position": "ST",
+      "rating": 65,
+      "birthdate": null,
+      "number": 10,
+      "team": "Saudi_Arabia",
+      "statistics": []
+    }
+  ],
+  "Qatar": [
+    {
+      "name": "Khalid",
+      "surname": "Eissa",
+      "position": "GK",
+      "rating": 70,
+      "birthdate": null,
+      "number": 1,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Sultan",
+      "surname": "Al Manthari",
+      "position": "GK",
+      "rating": 61,
+      "birthdate": null,
+      "number": 2,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Bandar",
+      "surname": "Al Ahbabi",
+      "position": "RB",
+      "rating": 70,
+      "birthdate": null,
+      "number": 3,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Ismail",
+      "surname": "Ahmed",
+      "position": "CB",
+      "rating": 65,
+      "birthdate": null,
+      "number": 4,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Saeed",
+      "surname": "Juma",
+      "position": "RB",
+      "rating": 64,
+      "birthdate": null,
+      "number": 5,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Shaker",
+      "position": "CB",
+      "rating": 64,
+      "birthdate": null,
+      "number": 6,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Salem",
+      "surname": "Abdullah",
+      "position": "LB",
+      "rating": 62,
+      "birthdate": null,
+      "number": 7,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Caio",
+      "surname": "Caio",
+      "position": "LM",
+      "rating": 72,
+      "birthdate": null,
+      "number": 8,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Yahia",
+      "surname": "Nader",
+      "position": "CDM",
+      "rating": 68,
+      "birthdate": null,
+      "number": 9,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Ahmed",
+      "surname": "Barman",
+      "position": "CAM",
+      "rating": 66,
+      "birthdate": null,
+      "number": 10,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Jamal",
+      "surname": "Maroof",
+      "position": "RM",
+      "rating": 65,
+      "birthdate": null,
+      "number": 11,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Sultan",
+      "surname": "Al Shamsi",
+      "position": "LM",
+      "rating": 64,
+      "birthdate": null,
+      "number": 12,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Rayan",
+      "surname": "Yaslam",
+      "position": "RM",
+      "rating": 64,
+      "birthdate": null,
+      "number": 13,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Mohsen",
+      "surname": "Abdullah",
+      "position": "ST",
+      "rating": 58,
+      "birthdate": null,
+      "number": 14,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Khaled",
+      "surname": "Al Blooshi",
+      "position": "ST",
+      "rating": 57,
+      "birthdate": null,
+      "number": 15,
+      "team": "Qatar",
+      "statistics": []
+    },
+    {
+      "name": "Mohammed",
+      "surname": "Khalfan",
+      "position": "LW",
+      "rating": 60,
+      "birthdate": null,
+      "number": 16,
+      "team": "Qatar",
+      "statistics": []
+    }
+  ]
+}
