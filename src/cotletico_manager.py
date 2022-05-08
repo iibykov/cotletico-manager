@@ -68,30 +68,6 @@ class Schedule:
         self.matches.append(match)
 
 
-# Non-functional:
-#
-# 1. Separate classes into separate files
-# 2. Each team must have a flag
-# 3. Write a good readme.md about the project (to be supplemented with screenshots, diagrams, ...)
-
-
-# Read teams, stadiums, ... from json to Python objects
-
-# Function of generating the strongest player list of the national team by player rating, taking into account positions
-
-# Put national teams into groups
-
-# The function of determining the current (or final) place in the group (statistics comparison)
-
-# Use real match schedule (for groups and playoffs; www.roadtrips.com/world-cup/2022-world-cup-packages/schedule/)
-
-# Generate at least 10 types of events (goal, injury, substitution, receiving a yellow or red card, penalty, corner,
-# penalty, ...)
-
-# For each event, generate several templates (for example, for a player replacement event, the template could be
-# "<player_2> enters the football field instead of a tired <player_1>")
-
-
 def teams_from_json(filename: str):
     data = ''
     with open('../data/players.json') as files:
