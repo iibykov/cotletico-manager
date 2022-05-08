@@ -91,16 +91,23 @@ class Schedule:
 # For each event, generate several templates (for example, for a player replacement event, the template could be
 # "<player_2> enters the football field instead of a tired <player_1>")
 
-data = ''
-with open('../data/players.json') as files:
-    text = files.read()
-    data = json.loads(text)
 
-teams = list()
-for team_name in data.keys():
-    players = list()
-    for player_info in data[team_name]:
-        player = Player(**player_info)
-        players.append(player)
-    team = Team(team_name, players)
-    teams.append(team)
+def teams_from_json(filename: str):
+    data = ''
+    with open('../data/players.json') as files:
+        text = files.read()
+        data = json.loads(text)
+
+    teams = list()
+    for team_name in data.keys():
+        players = list()
+        for player_info in data[team_name]:
+            player = Player(**player_info)
+            players.append(player)
+        team = Team(team_name, players)
+        teams.append(team)
+    return teams
+
+
+teams = teams_from_json('../data/players.json')
+print(len(teams))
