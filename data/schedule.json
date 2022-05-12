@@ -1,0 +1,434 @@
+[
+  {
+    "Date": "21-Nov-22",
+    "Team 1": "Qatar",
+    "Match": "1",
+    "Team 2": "Ecuador",
+    "Group": "A",
+    "Time": "7:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "21-Nov-22",
+    "Team 1": "Senegal",
+    "Match": "2",
+    "Team 2": "Netherlands",
+    "Group": "A",
+    "Time": "1:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "21-Nov-22",
+    "Team 1": "England",
+    "Match": "3",
+    "Team 2": "Iran",
+    "Group": "B",
+    "Time": "4:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "21-Nov-22",
+    "Team 1": "USA",
+    "Match": "4",
+    "Team 2": "Wales/Scotland/Ukraine",
+    "Group": "B",
+    "Time": "10:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "22-Nov-22",
+    "Team 1": "France",
+    "Match": "5",
+    "Team 2": "Peru/Australia/UAE",
+    "Group": "D",
+    "Time": "10:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "22-Nov-22",
+    "Team 1": "Denmark",
+    "Match": "6",
+    "Team 2": "Tunisia",
+    "Group": "D",
+    "Time": "4:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "22-Nov-22",
+    "Team 1": "Mexico",
+    "Match": "7",
+    "Team 2": "Poland",
+    "Group": "C",
+    "Time": "7:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "22-Nov-22",
+    "Team 1": "Argentina",
+    "Match": "8",
+    "Team 2": "Saudi Arabia",
+    "Group": "C",
+    "Time": "1:00 PM",
+    "Location": "Lusail Stadium"
+  },
+  {
+    "Date": "23-Nov-22",
+    "Team 1": "Belgium",
+    "Match": "9",
+    "Team 2": "Canada",
+    "Group": "F",
+    "Time": "10:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "23-Nov-22",
+    "Team 1": "Spain",
+    "Match": "10",
+    "Team 2": "Costa Rica/New Zealand",
+    "Group": "E",
+    "Time": "7:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "23-Nov-22",
+    "Team 1": "Germany",
+    "Match": "11",
+    "Team 2": "Japan",
+    "Group": "E",
+    "Time": "4:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "23-Nov-22",
+    "Team 1": "Morocco",
+    "Match": "12",
+    "Team 2": "Croatia",
+    "Group": "F",
+    "Time": "1:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "24-Nov-22",
+    "Team 1": "Switzerland",
+    "Match": "13",
+    "Team 2": "Cameroon",
+    "Group": "G",
+    "Time": "1:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "24-Nov-22",
+    "Team 1": "Uruguay",
+    "Match": "14",
+    "Team 2": "South Korea",
+    "Group": "H",
+    "Time": "4:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "24-Nov-22",
+    "Team 1": "Portugal",
+    "Match": "15",
+    "Team 2": "Ghana",
+    "Group": "H",
+    "Time": "7:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "24-Nov-22",
+    "Team 1": "Brazil",
+    "Match": "16",
+    "Team 2": "Serbia",
+    "Group": "G",
+    "Time": "10:00 PM",
+    "Location": "Lusail Stadium"
+  },
+  {
+    "Date": "25-Nov-22",
+    "Team 1": "Iran",
+    "Match": "17",
+    "Team 2": "Wales/Scotland/Ukraine",
+    "Group": "B",
+    "Time": "1:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "25-Nov-22",
+    "Team 1": "Qatar",
+    "Match": "18",
+    "Team 2": "Senegal",
+    "Group": "A",
+    "Time": "4:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "25-Nov-22",
+    "Team 1": "Netherlands",
+    "Match": "19",
+    "Team 2": "Ecuador",
+    "Group": "A",
+    "Time": "7:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "25-Nov-22",
+    "Team 1": "England",
+    "Match": "20",
+    "Team 2": "USA",
+    "Group": "B",
+    "Time": "10:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "26-Nov-22",
+    "Team 1": "Tunisia",
+    "Match": "21",
+    "Team 2": "Peru/Australia/UAE",
+    "Group": "D",
+    "Time": "1:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "26-Nov-22",
+    "Team 1": "Poland",
+    "Match": "22",
+    "Team 2": "Saudi Arabia",
+    "Group": "C",
+    "Time": "4:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "26-Nov-22",
+    "Team 1": "France",
+    "Match": "23",
+    "Team 2": "Denmark",
+    "Group": "D",
+    "Time": "7:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "26-Nov-22",
+    "Team 1": "Argentina",
+    "Match": "24",
+    "Team 2": "Mexico",
+    "Group": "C",
+    "Time": "10:00 PM",
+    "Location": "Lusail Stadium"
+  },
+  {
+    "Date": "27-Nov-22",
+    "Team 1": "Japan",
+    "Match": "25",
+    "Team 2": "Costa Rica/New Zealand",
+    "Group": "E",
+    "Time": "1:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "27-Nov-22",
+    "Team 1": "Belgium",
+    "Match": "26",
+    "Team 2": "Morocco",
+    "Group": "F",
+    "Time": "4:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "27-Nov-22",
+    "Team 1": "Croatia",
+    "Match": "27",
+    "Team 2": "Canada",
+    "Group": "F",
+    "Time": "7:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "27-Nov-22",
+    "Team 1": "Spain",
+    "Match": "28",
+    "Team 2": "Germany",
+    "Group": "E",
+    "Time": "10:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "28-Nov-22",
+    "Team 1": "Serbia",
+    "Match": "29",
+    "Team 2": "Cameroon",
+    "Group": "G",
+    "Time": "1:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "28-Nov-22",
+    "Team 1": "South Korea",
+    "Match": "30",
+    "Team 2": "Ghana",
+    "Group": "H",
+    "Time": "4:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "28-Nov-22",
+    "Team 1": "Brazil",
+    "Match": "31",
+    "Team 2": "Switzerland",
+    "Group": "G",
+    "Time": "7:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "28-Nov-22",
+    "Team 1": "Portugal",
+    "Match": "32",
+    "Team 2": "Uruguay",
+    "Group": "H",
+    "Time": "10:00 PM",
+    "Location": "Lusail Stadium"
+  },
+  {
+    "Date": "29-Nov-22",
+    "Team 1": "England",
+    "Match": "33",
+    "Team 2": "Wales/Scotland/Ukraine",
+    "Group": "B",
+    "Time": "10:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "29-Nov-22",
+    "Team 1": "Iran",
+    "Match": "34",
+    "Team 2": "USA",
+    "Group": "B",
+    "Time": "10:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "29-Nov-22",
+    "Team 1": "Ecuador",
+    "Match": "35",
+    "Team 2": "Senegal",
+    "Group": "A",
+    "Time": "6:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "29-Nov-22",
+    "Team 1": "Netherlands",
+    "Match": "36",
+    "Team 2": "Qatar",
+    "Group": "A",
+    "Time": "6:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "30-Nov-22",
+    "Team 1": "Denmark",
+    "Match": "37",
+    "Team 2": "Peru/Australia/UAE",
+    "Group": "D",
+    "Time": "6:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "30-Nov-22",
+    "Team 1": "Tunisia",
+    "Match": "38",
+    "Team 2": "France",
+    "Group": "D",
+    "Time": "6:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "30-Nov-22",
+    "Team 1": "Poland",
+    "Match": "39",
+    "Team 2": "Argentina",
+    "Group": "C",
+    "Time": "10:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "30-Nov-22",
+    "Team 1": "Saudi Arabia",
+    "Match": "40",
+    "Team 2": "Mexico",
+    "Group": "C",
+    "Time": "10:00 PM",
+    "Location": "Lusail Stadium"
+  },
+  {
+    "Date": "1-Dec-22",
+    "Team 1": "Croatia",
+    "Match": "41",
+    "Team 2": "Belgium",
+    "Group": "F",
+    "Time": "6:00 PM",
+    "Location": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "Date": "1-Dec-22",
+    "Team 1": "Canada",
+    "Match": "42",
+    "Team 2": "Morocco",
+    "Group": "F",
+    "Time": "6:00 PM",
+    "Location": "Al Thumama Stadium"
+  },
+  {
+    "Date": "1-Dec-22",
+    "Team 1": "Japan",
+    "Match": "43",
+    "Team 2": "Spain",
+    "Group": "E",
+    "Time": "10:00 PM",
+    "Location": "Khalifa International Stadium"
+  },
+  {
+    "Date": "1-Dec-22",
+    "Team 1": "Costa Rica/New Zealand",
+    "Match": "44",
+    "Team 2": "Germany",
+    "Group": "E",
+    "Time": "10:00 PM",
+    "Location": "Al Bayt Stadium"
+  },
+  {
+    "Date": "2-Dec-22",
+    "Team 1": "Ghana",
+    "Match": "45",
+    "Team 2": "Uruguay",
+    "Group": "H",
+    "Time": "6:00 PM",
+    "Location": "Al Janoub Stadium"
+  },
+  {
+    "Date": "2-Dec-22",
+    "Team 1": "South Korea",
+    "Match": "46",
+    "Team 2": "Portugal",
+    "Group": "H",
+    "Time": "6:00 PM",
+    "Location": "Education City Stadium"
+  },
+  {
+    "Date": "2-Dec-22",
+    "Team 1": "Serbia",
+    "Match": "47",
+    "Team 2": "Switzerland",
+    "Group": "G",
+    "Time": "10:00 PM",
+    "Location": "Stadium 974"
+  },
+  {
+    "Date": "2-Dec-22",
+    "Team 1": "Brazil",
+    "Match": "48",
+    "Team 2": "Cameroon",
+    "Group": "G",
+    "Time": "10:00 PM",
+    "Location": "Lusail Stadium"
+  }
+]
