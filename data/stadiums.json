@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Lusail Iconic Stadium",
+    "city": "Lusail",
+    "capacity": 80000,
+    "image_path": "stadiums/Lusail_Stadium.jpg"
+  },
+  {
+    "name": "Al Bayt Stadium",
+    "city": "Al Khor",
+    "capacity": 60000,
+    "image_path": "stadiums/Al_Bayt_Stadium.png"
+  },
+  {
+    "name": "Stadium 974",
+    "city": "Doha",
+    "capacity": 40000,
+    "image_path": "stadiums/Stadium_974.jpg"
+  },
+  {
+    "name": "Al Thumama Stadium",
+    "city": "Doha",
+    "capacity": 40000,
+    "image_path": "stadiums/Al_Thumama_Stadium.jpg"
+  },
+  {
+    "name": "Khalifa International Stadium",
+    "city": "Al Rayyan",
+    "capacity": 40000,
+    "image_path": "stadiums/Khalifa_Int_Stadium.jpg"
+  },
+  {
+    "name": "Education City Stadium",
+    "city": "Al Rayyan",
+    "capacity": 45350,
+    "image_path": "stadiums/Education_City_Stadium.jpg"
+  },
+  {
+    "name": "Ahmad bin Ali Stadium",
+    "city": "Al Rayyan",
+    "capacity": 44740,
+    "image_path": "stadiums/Ahmad_bin_Ali Stadium.png"
+  },
+  {
+    "name": "Al Janoub Stadium",
+    "city": "Al Wakrah",
+    "capacity": 40000,
+    "image_path": "stadiums/Al_Janoub_Stadium.jpg"
+  }
+]
