@@ -68,6 +68,24 @@ class Schedule:
         self.matches.append(match)
 
 
+def schedule_from_json(filename: str):
+    data = ''
+    with open(filename) as files:
+        text = files.read()
+        data = json.loads(text)
+
+    matches = list()
+    for match_info in data:
+        match = Match(match_info["Location"], 0, match_info["Date"], match_info["Team 1"], match_info["Team 2"], [], [])
+        matches.append(match)
+
+    schedule = Schedule(matches)
+    return schedule
+
+
+schedule = schedule_from_json('../data/schedule.json')
+
+
 def teams_from_json(filename: str):
     data = ''
     with open('../data/players.json') as files:
