@@ -16,6 +16,9 @@ class Player:
     def update_statistics(self, statistics):
         self.statistics = statistics
 
+    def __lt__(self, other):
+        return self.rating < other.rating
+
 
 class Team:
     def __init__(self, name, players, matches=[], flag=None, coach=''):
@@ -126,3 +129,6 @@ def ideal_squad(team, formation='4-4-2'):
         first_11.append(forwards[i])
 
     return first_11
+
+
+print(*[(pl.name, pl.surname, pl.position, pl.rating) for pl in ideal_squad(teams[5], '6-2-2')], sep='\n')
