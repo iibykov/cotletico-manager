@@ -83,6 +83,7 @@ def teams_from_json(filename: str):
         for player_info in data[team_name]:
             player = Player(**player_info)
             players.append(player)
+            player.statistics = dict({'injured': False, 'red': False})
         team = Team(team_name, players)
         teams.append(team)
     return teams
@@ -107,11 +108,11 @@ def ideal_squad(team, formation='4-4-2'):
     for player in team.players:
         if player.position == 'GK':
             goalkeepers.append(player)
-        elif player.position in def_positions:
+        elif player.position in def_positions and not player.statistics['injured'] and not player.statistics['red']:
             defenders.append(player)
-        elif player.position in mid_positions:
+        elif player.position in mid_positions and not player.statistics['injured'] and not player.statistics['red']:
             midfielders.append(player)
-        elif player.position in frw_positions:
+        elif player.position in frw_positions and not player.statistics['injured'] and not player.statistics['red']:
             forwards.append(player)
 
     if def_slots > len(defenders) or mid_slots > len(midfielders) or frw_slots > len(forwards):
@@ -128,7 +129,19 @@ def ideal_squad(team, formation='4-4-2'):
     for i in range(frw_slots):
         first_11.append(forwards[i])
 
-    return first_11
+    if len(first_11) == 11:
+        return first_11, 0
+    else:
+        bad_positions = 0
+        while len(first_11) != 11:
+            for player in team.players:
+                if player not in first_11 and not player.statistics['injured'] and not player.statistics['red']:
+                    first_11.append(player)
+                    bad_positions += 1
+        return first_11, bad_positions
 
 
-print(*[(pl.name, pl.surname, pl.position, pl.rating) for pl in ideal_squad(teams[5], '6-2-2')], sep='\n')
+# host_team = ideal_squad(teams[5], '6-2-2')[0]
+# host_bad_positions = ideal_squad(teams[5], '6-2-2')[1]
+# print(*[(pl.name, pl.surname, pl.position, pl.rating) for pl in host_team], sep='\n')
+# print(host_bad_positions)
