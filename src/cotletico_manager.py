@@ -11,6 +11,9 @@ def teams_from_json(filename: str):
         text = files.read()
         data = json.loads(text)
 
+    with open('../data/flags.json') as file:
+        flags = json.load(file)
+
     teams = list()
     for team_name in data.keys():
         players = list()
@@ -18,7 +21,7 @@ def teams_from_json(filename: str):
             pl = player.Player(**player_info)
             players.append(pl)
             pl.statistics = dict({'injured': False, 'red': False})
-        tm = team.Team(team_name, players)
+        tm = team.Team(team_name, players, flag=flags[team_name])
         teams.append(tm)
     return teams
 
