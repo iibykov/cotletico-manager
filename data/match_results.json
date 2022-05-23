@@ -1,0 +1,146 @@
+{
+  "match_2": {
+    "Senegal": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Netherlands": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Senegal": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Netherlands": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  },
+  "match_1": {
+    "Qatar": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Ecuador": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Qatar": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Ecuador": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  },
+  "match_18": {
+    "Senegal": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Qatar": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Senegal": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Qatar": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  },
+  "match_19": {
+    "Netherlands": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Ecuador": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Netherlands": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Ecuador": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  },
+  "match_35": {
+    "Senegal": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Ecuador": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Senegal": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Ecuador": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  },
+  "match_36": {
+    "Netherlands": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "Qatar": {
+      "gf": 0,
+      "ga": 0,
+      "gd": 0,
+      "p": 0
+    },
+    "events": {
+      "Netherlands": {
+        "y_card": 0,
+        "r_card": 0
+      },
+      "Qatar": {
+        "y_card": 0,
+        "r_card": 0
+      }
+    }
+  }
+}

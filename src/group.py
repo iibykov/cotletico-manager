@@ -1,4 +1,5 @@
 import json
+import team_position
 
 
 class Group:
@@ -6,6 +7,11 @@ class Group:
         """Constructor"""
         self.name = name
         self.teams = teams
+
+    @staticmethod
+    def team_position(team_name):
+        """shows the team's current position in the group"""
+        return team_position.update_status(team_position.group_name(team_name))
 
 
 def groups_from_json(filename: str):
@@ -21,3 +27,5 @@ def groups_from_json(filename: str):
 
 
 groups_from_json('../data/group.json')
+
+print(Group.team_position('Senegal'))
