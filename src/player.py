@@ -14,3 +14,6 @@ class Player:
 
     def __lt__(self, other):
         return self.rating < other.rating
+
+    def __add__(self, other):
+        return self.rating + self.rating
