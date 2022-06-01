@@ -37,21 +37,21 @@ def points(gd):  # argument is goals difference
 def result_generator(match):  # argument is an instance of the "Match" class
     """generates the dict 'match_results' with data for the ranking of teams in the group stage"""
     m_number = match_number(match.team_a, match.team_b)
-    match_results[m_number][match.team_a]['gf'] = match.goals_a  # add df to match_results dict
-    match_results[m_number][match.team_b]['gf'] = match.goals_b  # add df to match_results dict
-    match_results[m_number][match.team_a]['ga'] = match.goals_b  # add da to match_results dict
-    match_results[m_number][match.team_b]['ga'] = match.goals_a  # add da to match_results dict
+    match_results[m_number][match.team_a]['goals_for'] = match.goals_a  # add df to match_results dict
+    match_results[m_number][match.team_b]['goals_for'] = match.goals_b  # add df to match_results dict
+    match_results[m_number][match.team_a]['goals_against'] = match.goals_b  # add da to match_results dict
+    match_results[m_number][match.team_b]['goals_against'] = match.goals_a  # add da to match_results dict
     match_results[m_number]['events'][match.team_a] = match.events[match.team_a]  # add events in the match_result dict
     match_results[m_number]['events'][match.team_b] = match.events[match.team_b]  # add events in the match_result dict
     goals_a = int(match.goals_a)
     goals_b = int(match.goals_b)
     goals_dif = goals_a - goals_b
-    match_results[m_number][match.team_a]['p'] += points(goals_dif)  # add points to match_results dict
-    match_results[m_number][match.team_b]['p'] += points(-goals_dif)  # add points to match_results dict
-    match_results[m_number][match.team_a]['gd'] = \
-        match_results[m_number][match.team_a]['gf'] - match_results[m_number][match.team_a]['ga']
-    match_results[m_number][match.team_b]['gd'] = \
-        match_results[m_number][match.team_b]['gf'] - match_results[m_number][match.team_b]['ga']
+    match_results[m_number][match.team_a]['points'] += points(goals_dif)  # add points to match_results dict
+    match_results[m_number][match.team_b]['points'] += points(-goals_dif)  # add points to match_results dict
+    match_results[m_number][match.team_a]['goal_dif'] = \
+        match_results[m_number][match.team_a]['goals_for'] - match_results[m_number][match.team_a]['goals_against']
+    match_results[m_number][match.team_b]['goal_dif'] = \
+        match_results[m_number][match.team_b]['goals_for'] - match_results[m_number][match.team_b]['goals_against']
 
 
 def match_number(team_a, team_b):
@@ -70,7 +70,7 @@ def group_name(team_name):
 
 
 def ranking_of_two(team_a, team_b, match_ab):
-    if match_results[match_ab][team_a]['p'] > match_results[match_ab][team_b]['p']:
+    if match_results[match_ab][team_a]['points'] > match_results[match_ab][team_b]['points']:
         return [team_a, team_b]
     else:
         return [team_b, team_a]
@@ -96,9 +96,9 @@ def ranking_of_three(team_a, team_b, team_c, match_ab, match_ac, match_bc):
         elif v == team_c:
             criteria_c.update(k)
             criteria_c.update(res_2[v])
-    total_res = [[team_a, criteria_a['p'], criteria_a['gd'], criteria_a['gf']],
-                 [team_b, criteria_b['p'], criteria_b['gd'], criteria_b['gf']],
-                 [team_c, criteria_c['p'], criteria_c['gd'], criteria_c['gf']]]
+    total_res = [[team_a, criteria_a['points'], criteria_a['goal_dif'], criteria_a['goals_for']],
+                 [team_b, criteria_b['points'], criteria_b['goal_dif'], criteria_b['goals_for']],
+                 [team_c, criteria_c['points'], criteria_c['goal_dif'], criteria_c['goals_for']]]
     total_res.sort(key=lambda x: (-x[1], -x[2], -x[3]))
     if total_res[0][1:] == total_res[1][1:] \
             or total_res[0][1:] == total_res[2][1:] \
@@ -231,8 +231,8 @@ def update_status(criteria):  # Criteria is the name of the group
                            f"first place - {r_three[0]}\nsecond place - {r_three[1]}\n" \
                            f"third place - {r_three[2]}\nfourth place - {team_d}\n"
             else:  # teams a, b as well as teams c, d have the same number of points
-                if match_results[match_ab][team_a]['p'] == match_results[match_ab][team_b]['p'] \
-                        and match_results[match_cd][team_c]['p'] == match_results[match_cd][team_d]['p']:
+                if match_results[match_ab][team_a]['points'] == match_results[match_ab][team_b]['points'] \
+                        and match_results[match_cd][team_c]['points'] == match_results[match_cd][team_d]['points']:
                     fair_ab = fair_play(team_a, team_b, match_ab)
                     fair_cd = fair_play(team_c, team_d, match_cd)
                     if fair_ab is False and fair_cd is False:
@@ -252,7 +252,7 @@ def update_status(criteria):  # Criteria is the name of the group
                         return f"The ranking of teams in the Group {criteria} as of {date_now}:\n" \
                                f"first place - {fair_ab[0]}\nsecond place - {fair_ab[1]}\n" \
                                f"third place - {fair_cd[0]}\nfourth place - {fair_cd[1]}"
-                elif match_results[match_ab][team_a]['p'] == match_results[match_ab][team_b]['p']:
+                elif match_results[match_ab][team_a]['points'] == match_results[match_ab][team_b]['points']:
                     fair_ab = fair_play(team_a, team_b, match_ab)
                     r_two_cd = ranking_of_two(team_c, team_d, match_cd)
                     if fair_ab is False:
@@ -264,7 +264,7 @@ def update_status(criteria):  # Criteria is the name of the group
                         return f"The ranking of teams in the Group {criteria} as of {date_now}:\n" \
                                f"first place - {fair_ab[0]}\nsecond place - {fair_ab[1]}\n" \
                                f"third place - {r_two_cd[0]}\nfourth place - {r_two_cd[1]}"
-                elif match_results[match_cd][team_c]['p'] == match_results[match_cd][team_d]['p']:
+                elif match_results[match_cd][team_c]['points'] == match_results[match_cd][team_d]['points']:
                     fair_cd = fair_play(team_c, team_d, match_cd)
                     r_two_ab = ranking_of_two(team_a, team_b, match_ab)
                     if fair_cd is False:
@@ -285,7 +285,7 @@ def update_status(criteria):  # Criteria is the name of the group
                            f"third place - {r_two_cd[0]}\nfourth place - {r_two_cd[1]}"
         else:  # two teams have the same number of points
             if tuple_bool.index(True) == 0:
-                if match_results[match_ab][team_a]['p'] == match_results[match_ab][team_b]['p']:
+                if match_results[match_ab][team_a]['points'] == match_results[match_ab][team_b]['points']:
                     fair_ab = fair_play(team_a, team_b, match_ab)
                     if fair_ab is False:
                         return f'The ranking of teams in the Group {criteria} as of {date_now}:\n' \
@@ -302,7 +302,7 @@ def update_status(criteria):  # Criteria is the name of the group
                            f"first place - {r_two_ab[0]}\nsecond place - {r_two_ab[1]}\n" \
                            f"third place - {team_c}\nfourth place - {team_d}"
             elif tuple_bool.index(True) == 1:
-                if match_results[match_bc][team_b]['p'] == match_results[match_bc][team_c]['p']:
+                if match_results[match_bc][team_b]['points'] == match_results[match_bc][team_c]['points']:
                     fair_bc = fair_play(team_b, team_c, match_bc)
                     if fair_bc is False:
                         return f'The ranking of teams in the Group {criteria} as of {date_now}:\n' \
@@ -320,7 +320,7 @@ def update_status(criteria):  # Criteria is the name of the group
                            f"first place - {team_a}\nsecond place - {r_two_bc[0]}\n" \
                            f"third place - {r_two_bc[1]}\nfourth place - {team_d}"
             else:  # tuple_bool.index(True) == 2
-                if match_results[match_cd][team_c]['p'] == match_results[match_cd][team_d]['p']:
+                if match_results[match_cd][team_c]['points'] == match_results[match_cd][team_d]['points']:
                     fair_cd = fair_play(team_c, team_d, match_cd)
                     if fair_cd is False:
                         return f'The ranking of teams in the Group {criteria} as of {date_now}:\n' \

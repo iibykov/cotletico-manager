@@ -1,16 +1,16 @@
 {
   "match_2": {
     "Senegal": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Netherlands": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Senegal": {
@@ -25,16 +25,16 @@
   },
   "match_1": {
     "Qatar": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Ecuador": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Qatar": {
@@ -49,16 +49,16 @@
   },
   "match_18": {
     "Senegal": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Qatar": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Senegal": {
@@ -73,16 +73,16 @@
   },
   "match_19": {
     "Netherlands": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Ecuador": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Netherlands": {
@@ -97,16 +97,16 @@
   },
   "match_35": {
     "Senegal": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Ecuador": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Senegal": {
@@ -121,16 +121,16 @@
   },
   "match_36": {
     "Netherlands": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "Qatar": {
-      "gf": 0,
-      "ga": 0,
-      "gd": 0,
-      "p": 0
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_dif": 0,
+      "points": 0
     },
     "events": {
       "Netherlands": {
