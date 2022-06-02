@@ -14,5 +14,5 @@ print(len(teams))
 # print(*[(pl.name, pl.surname, pl.position, pl.rating) for pl in host_team], sep='\n')
 # print(host_bad_positions)
 
-exhibition_match = group_schedule.play_match(1, teams)
+exhibition_match = group_schedule.play_match(2, teams)
 print(exhibition_match)
