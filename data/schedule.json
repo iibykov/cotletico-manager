@@ -30,7 +30,7 @@
     "Date": "21-Nov-22",
     "Team 1": "USA",
     "Match": "4",
-    "Team 2": "Wales/Scotland/Ukraine",
+    "Team 2": "Unknown_B",
     "Group": "B",
     "Time": "10:00 PM",
     "Location": "Ahmad Bin Ali Stadium"
@@ -39,7 +39,7 @@
     "Date": "22-Nov-22",
     "Team 1": "France",
     "Match": "5",
-    "Team 2": "Peru/Australia/UAE",
+    "Team 2": "Unknown_D",
     "Group": "D",
     "Time": "10:00 PM",
     "Location": "Al Janoub Stadium"
@@ -66,7 +66,7 @@
     "Date": "22-Nov-22",
     "Team 1": "Argentina",
     "Match": "8",
-    "Team 2": "Saudi Arabia",
+    "Team 2": "Saudi_Arabia",
     "Group": "C",
     "Time": "1:00 PM",
     "Location": "Lusail Stadium"
@@ -84,7 +84,7 @@
     "Date": "23-Nov-22",
     "Team 1": "Spain",
     "Match": "10",
-    "Team 2": "Costa Rica/New Zealand",
+    "Team 2": "Unknown_E",
     "Group": "E",
     "Time": "7:00 PM",
     "Location": "Al Thumama Stadium"
@@ -120,7 +120,7 @@
     "Date": "24-Nov-22",
     "Team 1": "Uruguay",
     "Match": "14",
-    "Team 2": "South Korea",
+    "Team 2": "South_Korea",
     "Group": "H",
     "Time": "4:00 PM",
     "Location": "Education City Stadium"
@@ -147,7 +147,7 @@
     "Date": "25-Nov-22",
     "Team 1": "Iran",
     "Match": "17",
-    "Team 2": "Wales/Scotland/Ukraine",
+    "Team 2": "Unknown_B",
     "Group": "B",
     "Time": "1:00 PM",
     "Location": "Ahmad Bin Ali Stadium"
@@ -183,7 +183,7 @@
     "Date": "26-Nov-22",
     "Team 1": "Tunisia",
     "Match": "21",
-    "Team 2": "Peru/Australia/UAE",
+    "Team 2": "Unknown_D",
     "Group": "D",
     "Time": "1:00 PM",
     "Location": "Al Janoub Stadium"
@@ -192,7 +192,7 @@
     "Date": "26-Nov-22",
     "Team 1": "Poland",
     "Match": "22",
-    "Team 2": "Saudi Arabia",
+    "Team 2": "Saudi_Arabia",
     "Group": "C",
     "Time": "4:00 PM",
     "Location": "Education City Stadium"
@@ -219,7 +219,7 @@
     "Date": "27-Nov-22",
     "Team 1": "Japan",
     "Match": "25",
-    "Team 2": "Costa Rica/New Zealand",
+    "Team 2": "Unknown_E",
     "Group": "E",
     "Time": "1:00 PM",
     "Location": "Ahmad Bin Ali Stadium"
@@ -262,7 +262,7 @@
   },
   {
     "Date": "28-Nov-22",
-    "Team 1": "South Korea",
+    "Team 1": "South_Korea",
     "Match": "30",
     "Team 2": "Ghana",
     "Group": "H",
@@ -291,7 +291,7 @@
     "Date": "29-Nov-22",
     "Team 1": "England",
     "Match": "33",
-    "Team 2": "Wales/Scotland/Ukraine",
+    "Team 2": "Unknown_B",
     "Group": "B",
     "Time": "10:00 PM",
     "Location": "Ahmad Bin Ali Stadium"
@@ -327,7 +327,7 @@
     "Date": "30-Nov-22",
     "Team 1": "Denmark",
     "Match": "37",
-    "Team 2": "Peru/Australia/UAE",
+    "Team 2": "Unknown_D",
     "Group": "D",
     "Time": "6:00 PM",
     "Location": "Al Janoub Stadium"
@@ -352,7 +352,7 @@
   },
   {
     "Date": "30-Nov-22",
-    "Team 1": "Saudi Arabia",
+    "Team 1": "Saudi_Arabia",
     "Match": "40",
     "Team 2": "Mexico",
     "Group": "C",
@@ -388,7 +388,7 @@
   },
   {
     "Date": "1-Dec-22",
-    "Team 1": "Costa Rica/New Zealand",
+    "Team 1": "Unknown_E",
     "Match": "44",
     "Team 2": "Germany",
     "Group": "E",
@@ -406,7 +406,7 @@
   },
   {
     "Date": "2-Dec-22",
-    "Team 1": "South Korea",
+    "Team 1": "South_Korea",
     "Match": "46",
     "Team 2": "Portugal",
     "Group": "H",
