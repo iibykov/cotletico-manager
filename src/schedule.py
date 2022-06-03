@@ -17,12 +17,7 @@ class Schedule:
         self.teams_matches.append(match)
 
     @staticmethod
-    def from_json_file(filename: str):
-        data = ''
-        with open(filename) as files:
-            text = files.read()
-            data = json.loads(text)
-
+    def from_json(data):
         matches = list()
         for match_info in data:
             m = match.Match(match_info["Match"], match_info["Location"], match_info["Date"], match_info["Team 1"],
@@ -31,6 +26,15 @@ class Schedule:
 
         schedule = Schedule(matches)
         return schedule
+
+    @staticmethod
+    def from_json_file(filename: str):
+        data = ''
+        with open(filename) as files:
+            text = files.read()
+            data = json.loads(text)
+
+        return Schedule.from_json(data)
 
     def get_match(self, number):
         for m in self.matches:
