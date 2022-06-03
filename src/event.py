@@ -5,7 +5,6 @@ import json
 class Event:
     def __init__(self, messages):
         self.messages = messages
-        self.time = time
 
     def print_message(self, **params):
         message = "".join(sample(self.messages, 1))
