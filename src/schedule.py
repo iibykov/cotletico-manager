@@ -61,100 +61,67 @@ class Schedule:
         print(f'рейтинг команд: {host_name} - {host_rating}   :    {gest_name} - {gest_rating}')
         print()
 
-        chance = ev.ChanceState()
-        goal = ev.GoalState()
-        reject_goal = ev.RejectGoalState()
-        corner = ev.CornerState()
-        foul = ev.FoulState()
-        yellow = ev.YellowState()
-
-        host_event = ev.Event(chance)
-        gest_event = ev.Event(chance)
-
         match_time = 0
-        while match_time < 90:
+        second_time = False
+        while match_time <= 90:
             match_time += 1
-            if random.random() < 0.2:  # chance 20% - scoring moment
-                if random.random() < host_rating / (
-                        host_rating + gest_rating):  # 55% host_chance - 45% guest_chance ... depends rating
-                    team_event = host_event
+            if random.random() < 0.2:        #chance 10% - scoring moment
+                if random.random() < host_rating / (host_rating + gest_rating):           #55% host_chance - 45% guest_chance ... depends rating
                     team = host_team
                 else:
-                    team_event = gest_event
                     team = gest_team
+                print(f'CHANCE {team.name}')                 # add massages for scoring moment
+                m.update_statistics('team, chances + 1')     # here and near add update_statistics method, now its empty
 
-                team_event.change_state(chance)
-                print(f'{match_time} минута матча', end=' ')
-                print(team.name, end=' ')
-                m.update_statistics('team chances + 1')
-                team_event.event_action()
-                print()
-
-                if random.random() < 0.10:
+                if random.random() < 0.10:                   # 10% goal
                     match_time += 1
-                    team_event.change_state(goal)
-                    print(f'{match_time} минута матча', end=' ')
-                    print(team.name, end=' ')
-                    m.update_statistics('team chances + 1')
-                    team_event.event_action()
-                    print()
-                    if random.random() < 0.15:
-                        team_event.change_state(reject_goal)
-                        match_time += 2
-                        print(f'{match_time} минута матча', end=' ')
-                        print(team.name, end=' ')
-                        m.update_statistics('team chances + 1')
-                        team_event.event_action()
-                        print()
-                    continue
+                    ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")
+                    m.update_statistics('team, goals + 1')
 
-                elif random.random() < 0.15:
-                    team_event.change_state(corner)
-                    print(f'{match_time} минута матча', end=' ')
-                    print(team.name, end=' ')
-                    m.update_statistics('team corners + 1')
-                    team_event.event_action()
-                    print()
-                    if random.random() < 0.18:
-                        match_time += 1
-                        team_event.change_state(goal)
-                        print(f'{match_time} минута матча', end=' ')
-                        print(team.name, end=' ')
-                        m.update_statistics('team goals + 1')
-                        team_event.event_action()
-                        print()
-                    elif random.random() < 0.40:
-                        match_time += 1
-                        team_event.change_state(foul)
-                        print(f'{match_time} минута матча', end=' ')
-                        print(team.name, end=' ')
-                        m.update_statistics('foul + 1')
-                        team_event.event_action()
-                        print()
-                        if random.random() < 0.30:
+                elif random.random() < 0.15:                 # 15% corner
+                    match_time += 1
+                    ev.corner.print_message(time=str(match_time), team=team.name, player="Raul")
+                    m.update_statistics('team, corners + 1')
+                    if random.random() < 0.15:               # 15% goal after corner
+                        ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")
+                        m.update_statistics('team, goals + 1')
+                    elif random.random() < 0.30:             # 30% foul in attack after corner
+                        ev.foul.print_message(time=str(match_time), team=team.name, player="Raul")
+                        m.update_statistics('team, fouls + 1')
+                        if random.random() < 0.20:          # 20% yellow in attack after foul in attack after corner
                             match_time += 1
-                            team_event.change_state(yellow)
-                            print(f'{match_time} минута матча', end=' ')
-                            print(team.name, end=' ')
-                            m.update_statistics('yellow + 1')
-                            team_event.event_action()
-                            print()
-                    continue
+                            ev.yellow_card.print_message(time=str(match_time), team=team.name, player="Raul")
+                            m.update_statistics('team, yellows + 1')
+                            # after yellow_card maybe we need to check player to red_card
 
-                elif random.random() < 0.20:
-                    match_time += 1
-                    team_event.change_state(foul)
-                    print(f'{match_time} минута матча', end=' ')
-                    print(team.name, end=' ')
-                    m.update_statistics('fouls + 1')
-                    team_event.event_action()
-                    print()
-                    if random.random() < 0.30:
+                elif random.random() < 0.20:                # 20% foul in attack
+                    ev.foul.print_message(time=str(match_time), team=team.name, player="Raul")
+                    m.update_statistics('team, fouls + 1')
+                    if random.random() < 0.20:          # 20% yellow in attack after foul in attack after corner
                         match_time += 1
-                        team_event.change_state(yellow)
-                        print(f'{match_time} минута матча', end=' ')
-                        print(team.name, end=' ')
-                        m.update_statistics('yellow + 1')
-                        team_event.event_action()
-                        print()
+                        ev.yellow_card.print_message(time=str(match_time), team=team.name, player="Raul")
+                        m.update_statistics('team, yellows + 1')
+                        # after yellow_card maybe we need to check player to red_card
+
+                elif random.random() < 0.15:                # 15% offside
+                    match_time += 1
+                    ev.offside.print_message(time=str(match_time), team=team.name, player="Raul")
+                    m.update_statistics('team, offsides + 1')
+
+                elif random.random() < 0.10:                # 10% penalty
+                    match_time += 1
+                    ev.penalty.print_message(time=str(match_time), team=team.name, player="Raul")
+                    m.update_statistics('team, penalty + 1')
+                    if random.random() < 0.75:               # 75% goal after penalty
+                        ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")  # maybe need add special events to goal after penalty
+                        m.update_statistics('team, goals + 1')
+
+            if match_time > 45 and second_time is False:
+                ev.second_half.print_message(time=str(match_time))
+                second_time = True
+
+            if match_time >= 90:
+                match_time += 3
+                ev.full_time.print_message(time=str(match_time))
+
         return m.statistics

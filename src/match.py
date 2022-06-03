@@ -1,5 +1,6 @@
 class Match:
-    def __init__(self, stadium, date, host, guest, status=False, attendance=None, events=None, statistics=None):
+    def __init__(self, number, stadium, date, host, guest, status=False, attendance=None, events=None, statistics=None):
+        self.number = number
         self.stadium = stadium
         self.date = date
         self.host = host
@@ -26,27 +27,25 @@ class Match:
         if player.statistics['injured'] or player.statistics['red']:
             return True
 
-    @staticmethod
-    def ideal_squad(team, formation='4-4-2'):
+    def ideal_squad(self, team, formation='4-4-2'):
         first_11 = []
         goalkeepers, defenders, midfielders, forwards = [], [], [], []
         def_positions = ('LB', 'CB', 'RB', 'LWB', 'RWB')
         mid_positions = ('CDM', 'LM', 'CM', 'RM', 'CAM')
         frw_positions = ('LW', 'RW', 'ST', 'SS')
 
-        if Match.bad_formation(formation):
+        if self.bad_formation(formation):
             formation = '4-4-2'
 
         def_slots, mid_slots, frw_slots = map(int, formation.split('-'))
-
         for player in team.players:
             if player.position == 'GK':
                 goalkeepers.append(player)
-            elif player.position in def_positions and not Match.player_miss_match(player):
+            elif player.position in def_positions and not self.player_miss_match(player):
                 defenders.append(player)
-            elif player.position in mid_positions and not Match.player_miss_match(player):
+            elif player.position in mid_positions and not self.player_miss_match(player):
                 midfielders.append(player)
-            elif player.position in frw_positions and not Match.player_miss_match(player):
+            elif player.position in frw_positions and not self.player_miss_match(player):
                 forwards.append(player)
 
         if def_slots > len(defenders) or mid_slots > len(midfielders) or frw_slots > len(forwards):
@@ -69,7 +68,7 @@ class Match:
             bad_positions = 0
             while len(first_11) != 11:
                 for player in team.players:
-                    if player not in first_11 and not player.statistics['injured'] and not player.statistics['red']:
+                    if player not in first_11 and not self.player_miss_match(player):
                         first_11.append(player)
                         bad_positions += 1
             return first_11, bad_positions
