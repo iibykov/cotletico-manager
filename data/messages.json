@@ -58,7 +58,7 @@
     "{time}' {player} ({team}) was trying to get to the ball but clattered into the legs of the opponent as well. Referee blows his whistle for an infringement.",
     "{time}' {player} ({team}) makes an overly-aggressive challenge and referee blows his whistle for a foul.",
     "{time}' {player} ({team}) is penalised for a foul. Referee had a clear view and blows his whistle.",
-    "{time}' {player} ({team1}) jumps into a tackle and referee blows his whistle for a foul.",
+    "{time}' {player} ({team}) jumps into a tackle and referee blows his whistle for a foul.",
     "{time}' {player} ({team}) plays in a hopeful cross, but it doesn't find its way to any of the attacking players. The ball is off of the pitch and it's a goal kick."
   ],
   "penalty": [
