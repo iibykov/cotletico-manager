@@ -17,7 +17,7 @@ class Schedule:
         self.teams_matches.append(match)
 
     @staticmethod
-    def schedule_from_json(filename: str):
+    def from_json_file(filename: str):
         data = ''
         with open(filename) as files:
             text = files.read()
@@ -25,7 +25,8 @@ class Schedule:
 
         matches = list()
         for match_info in data:
-            m = match.Match(match_info["Match"], match_info["Location"], match_info["Date"], match_info["Team 1"], match_info["Team 2"], [], [])
+            m = match.Match(match_info["Match"], match_info["Location"], match_info["Date"], match_info["Team 1"],
+                            match_info["Team 2"], [], [])
             matches.append(m)
 
         schedule = Schedule(matches)
@@ -41,7 +42,7 @@ class Schedule:
         host_name, gest_name = m.host, m.guest
         host_rating = 1
         gest_rating = 1
-        print(f'Сегодня, на стадионе {m.stadium} состоится {m.number} матч Чемпионата мира по футболу 2022')    # all prints() will be removed after add relevant events
+        print(f'Сегодня, на стадионе {m.stadium} состоится {m.number} матч Чемпионата мира по футболу 2022')
         print(f'В рамках данного матча встречаются команды {host_name} и {gest_name}')
         print()
         for t in teams:
@@ -124,8 +125,3 @@ class Schedule:
                 ev.full_time.print_message(time=str(match_time))
 
         return m.statistics
-
-
-
-
-
