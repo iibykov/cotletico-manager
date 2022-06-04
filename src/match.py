@@ -1,5 +1,15 @@
+from enum import Enum
+from src.team import Team
+
+
+class MatchStatus(Enum):
+    NOT_PLAYED = 0
+    PLAYED = 1
+
+
 class Match:
-    def __init__(self, number, stadium, date, host, guest, status=False, attendance=None, events=None, statistics=None):
+    def __init__(self, number, stadium, date, host: Team, guest: Team, status=MatchStatus.NOT_PLAYED,
+                 attendance=None, events=None, statistics=None):
         self.number = number
         self.stadium = stadium
         self.date = date
@@ -15,60 +25,3 @@ class Match:
 
     def update_statistics(self, statistics):
         self.statistics = statistics
-
-    @staticmethod
-    def bad_formation(formation):
-        if not isinstance(formation, str) or len(formation.split('-')) != 3 or \
-                not all([i.isdigit() for i in (formation.split('-'))]) or sum(map(int, formation.split('-'))) != 10:
-            return True
-
-    @staticmethod
-    def player_miss_match(player):
-        if player.statistics['injured'] or player.statistics['red']:
-            return True
-
-    def ideal_squad(self, team, formation='4-4-2'):
-        first_11 = []
-        goalkeepers, defenders, midfielders, forwards = [], [], [], []
-        def_positions = ('LB', 'CB', 'RB', 'LWB', 'RWB')
-        mid_positions = ('CDM', 'LM', 'CM', 'RM', 'CAM')
-        frw_positions = ('LW', 'RW', 'ST', 'SS')
-
-        if self.bad_formation(formation):
-            formation = '4-4-2'
-
-        def_slots, mid_slots, frw_slots = map(int, formation.split('-'))
-        for player in team.players:
-            if player.position == 'GK':
-                goalkeepers.append(player)
-            elif player.position in def_positions and not self.player_miss_match(player):
-                defenders.append(player)
-            elif player.position in mid_positions and not self.player_miss_match(player):
-                midfielders.append(player)
-            elif player.position in frw_positions and not self.player_miss_match(player):
-                forwards.append(player)
-
-        if def_slots > len(defenders) or mid_slots > len(midfielders) or frw_slots > len(forwards):
-            def_slots, mid_slots, frw_slots = 4, 4, 2
-
-        first_11.append(max(goalkeepers))
-        defenders.sort(reverse=True)
-        for i in range(def_slots):
-            first_11.append(defenders[i])
-        midfielders.sort(reverse=True)
-        for i in range(mid_slots):
-            first_11.append(midfielders[i])
-        forwards.sort(reverse=True)
-        for i in range(frw_slots):
-            first_11.append(forwards[i])
-
-        if len(first_11) == 11:
-            return first_11, 0
-        else:
-            bad_positions = 0
-            while len(first_11) != 11:
-                for player in team.players:
-                    if player not in first_11 and not self.player_miss_match(player):
-                        first_11.append(player)
-                        bad_positions += 1
-            return first_11, bad_positions
