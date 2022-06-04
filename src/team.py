@@ -14,7 +14,7 @@ class Team:
         self.coach = coach
 
     @staticmethod
-    def teams_from_json(filename: str):
+    def from_json_file(filename: str):
         data = ''
         with open('../data/players.json') as files:
             text = files.read()
@@ -51,3 +51,4 @@ class Team:
                 for pl in first11[0]:
                     print(pl.name, pl.surname, pl.position, pl.rating)
                 print()
+

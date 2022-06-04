@@ -1,8 +1,8 @@
 from team import Team
 from schedule import Schedule
 
-group_schedule = Schedule.schedule_from_json('../data/schedule.json')
-teams = Team.teams_from_json('../data/players.json')
+group_schedule = Schedule.from_json_file('../data/schedule.json')
+teams = Team.from_json_file('../data/players.json')
 
 
 class Tournament:

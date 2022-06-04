@@ -17,12 +17,7 @@ class Schedule:
         self.teams_matches.append(match)
 
     @staticmethod
-    def schedule_from_json(filename: str):
-        data = ''
-        with open(filename) as files:
-            text = files.read()
-            data = json.loads(text)
-
+    def from_json(data):
         matches = list()
         for match_info in data:
             m = match.Match(match_info["Match"], match_info["Location"], match_info["Date"], match_info["Team 1"],
@@ -31,6 +26,15 @@ class Schedule:
 
         schedule = Schedule(matches)
         return schedule
+
+    @staticmethod
+    def from_json_file(filename: str):
+        data = ''
+        with open(filename) as files:
+            text = files.read()
+            data = json.loads(text)
+
+        return Schedule.from_json(data)
 
     def get_match(self, number):
         for m in self.matches:
@@ -42,8 +46,7 @@ class Schedule:
         host_name, gest_name = m.host, m.guest
         host_rating = 1
         gest_rating = 1
-        print(
-            f'Сегодня, на стадионе {m.stadium} состоится {m.number} матч Чемпионата мира по футболу 2022')  # all prints() will be removed after add relevant events
+        print(f'Сегодня, на стадионе {m.stadium} состоится {m.number} матч Чемпионата мира по футболу 2022')
         print(f'В рамках данного матча встречаются команды {host_name} и {gest_name}')
         print()
         for t in teams:
@@ -66,57 +69,55 @@ class Schedule:
         second_time = False
         while match_time <= 90:
             match_time += 1
-            if random.random() < 0.2:  # chance 10% - scoring moment
-                if random.random() < host_rating / (
-                        host_rating + gest_rating):  # 55% host_chance - 45% guest_chance ... depends rating
+            if random.random() < 0.2:        #chance 10% - scoring moment
+                if random.random() < host_rating / (host_rating + gest_rating):           #55% host_chance - 45% guest_chance ... depends rating
                     team = host_team
                 else:
                     team = gest_team
-                print(f'CHANCE {team.name}')  # add massages for scoring moment
-                m.update_statistics('team, chances + 1')  # here and near add update_statistics method, now its empty
+                print(f'CHANCE {team.name}')                 # add massages for scoring moment
+                m.update_statistics('team, chances + 1')     # here and near add update_statistics method, now its empty
 
-                if random.random() < 0.10:  # 10% goal
+                if random.random() < 0.10:                   # 10% goal
                     match_time += 1
                     ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")
                     m.update_statistics('team, goals + 1')
 
-                elif random.random() < 0.15:  # 15% corner
+                elif random.random() < 0.15:                 # 15% corner
                     match_time += 1
                     ev.corner.print_message(time=str(match_time), team=team.name, player="Raul")
                     m.update_statistics('team, corners + 1')
-                    if random.random() < 0.15:  # 15% goal after corner
+                    if random.random() < 0.15:               # 15% goal after corner
                         ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")
                         m.update_statistics('team, goals + 1')
-                    elif random.random() < 0.30:  # 30% foul in attack after corner
+                    elif random.random() < 0.30:             # 30% foul in attack after corner
                         ev.foul.print_message(time=str(match_time), team=team.name, player="Raul")
                         m.update_statistics('team, fouls + 1')
-                        if random.random() < 0.20:  # 20% yellow in attack after foul in attack after corner
+                        if random.random() < 0.20:          # 20% yellow in attack after foul in attack after corner
                             match_time += 1
                             ev.yellow_card.print_message(time=str(match_time), team=team.name, player="Raul")
                             m.update_statistics('team, yellows + 1')
                             # after yellow_card maybe we need to check player to red_card
 
-                elif random.random() < 0.20:  # 20% foul in attack
+                elif random.random() < 0.20:                # 20% foul in attack
                     ev.foul.print_message(time=str(match_time), team=team.name, player="Raul")
                     m.update_statistics('team, fouls + 1')
-                    if random.random() < 0.20:  # 20% yellow in attack after foul in attack after corner
+                    if random.random() < 0.20:          # 20% yellow in attack after foul in attack after corner
                         match_time += 1
                         ev.yellow_card.print_message(time=str(match_time), team=team.name, player="Raul")
                         m.update_statistics('team, yellows + 1')
                         # after yellow_card maybe we need to check player to red_card
 
-                elif random.random() < 0.15:  # 15% offside
+                elif random.random() < 0.15:                # 15% offside
                     match_time += 1
                     ev.offside.print_message(time=str(match_time), team=team.name, player="Raul")
                     m.update_statistics('team, offsides + 1')
 
-                elif random.random() < 0.10:  # 10% penalty
+                elif random.random() < 0.10:                # 10% penalty
                     match_time += 1
                     ev.penalty.print_message(time=str(match_time), team=team.name, player="Raul")
                     m.update_statistics('team, penalty + 1')
-                    if random.random() < 0.75:  # 75% goal after penalty
-                        ev.goal.print_message(time=str(match_time), team=team.name,
-                                              player="Raul")  # maybe need add special events to goal after penalty
+                    if random.random() < 0.75:               # 75% goal after penalty
+                        ev.goal.print_message(time=str(match_time), team=team.name, player="Raul")  # maybe need add special events to goal after penalty
                         m.update_statistics('team, goals + 1')
 
             if match_time > 45 and second_time is False:
