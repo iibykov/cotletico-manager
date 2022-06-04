@@ -1,18 +1,17 @@
-import random
-import json
-import player
-import team
-import match
-import schedule
+from team import Team
+from group import Group
+from schedule import Schedule
+from tournament import Tournament
 
-group_schedule = schedule.Schedule.schedule_from_json('../data/schedule.json')
-teams = team.Team.teams_from_json('../data/players.json')
-print(len(teams))
 
-# host_team = match.Match.ideal_squad(teams[6], '6-2-2')[0]
-# host_bad_positions = match.Match.ideal_squad(teams[6], '6-2-2')[1]
-# print(*[(pl.name, pl.surname, pl.position, pl.rating) for pl in host_team], sep='\n')
-# print(host_bad_positions)
+def main():
+    groups = Group.from_json_file('../data/group.json')
+    group_schedule = Schedule.from_json_file('../data/schedule.json')
+    teams = Team.from_json_file('../data/players.json', '../data/flags.json')
 
-exhibition_match = group_schedule.play_match(2, teams)
-print(exhibition_match)
+    world_cup_2022 = Tournament('FIFA World Cup Qatar 2022', group_schedule, teams, groups)
+    world_cup_2022.run()
+
+
+if __name__ == "__main__":
+    main()
