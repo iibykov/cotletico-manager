@@ -44,11 +44,11 @@ class Team:
         return Team.from_json(data, flags)
 
     def get_rating(self):
-        first11 = self.ideal_squad
+        first11 = self.ideal_squad()
         return sum(pl.rating for pl in first11)
 
     def first11_presentation(self):
-        first11 = self.ideal_squad
+        first11 = self.ideal_squad()
         print(first11)
 
     def get_players_by_position(self, positions, status: PlayerStatus = None, number: int = None):
@@ -74,7 +74,6 @@ class Team:
     def get_midfielders(self, status: PlayerStatus = None, number: int = None):
         return self.get_players_by_position(('CDM', 'LM', 'CM', 'RM', 'CAM'), status, number)
 
-    @property
     def ideal_squad(self):
         def_slots, mid_slots, frw_slots = map(int, self.formation.split('-'))
 
