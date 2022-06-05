@@ -44,7 +44,7 @@ class Team:
         return Team.from_json(data, flags)
 
     def get_rating(self):
-        first11 = self.ideal_squad
+        first11 = self.ideal_squad()
         return sum(pl.rating for pl in first11)
 
     def get_players_by_position(self, positions, status: PlayerStatus = None, number: int = None):
