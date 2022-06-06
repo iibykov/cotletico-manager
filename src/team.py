@@ -70,7 +70,6 @@ class Team:
     def get_midfielders(self, status: PlayerStatus = None, number: int = None):
         return self.get_players_by_position(('CDM', 'LM', 'CM', 'RM', 'CAM'), status, number)
 
-    @property
     def ideal_squad(self):
         def_slots, mid_slots, frw_slots = map(int, self.formation.split('-'))
 
