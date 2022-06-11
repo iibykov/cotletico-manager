@@ -6936,5 +6936,196 @@
       "team": "Qatar",
       "statistics": []
     }
-  ]
+  ],
+  "Wales": [
+    {
+      "name": "Gareth",
+      "surname": "Bale",
+      "position": "LW",
+      "rating": 95,
+      "birthdate": "07/16/1989",
+      "number": 11,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "James",
+      "position": "RW",
+      "rating": 77,
+      "birthdate": "11/10/1997",
+      "number": 20,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Aaron",
+      "surname": "Ramsey",
+      "position": "ST",
+      "rating": 80,
+      "birthdate": "12/26/1990",
+      "number": 10,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Harry",
+      "surname": "Wilson",
+      "position": "RM",
+      "rating": 93,
+      "birthdate": "03/22/1997",
+      "number": 8,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Ben",
+      "surname": "Davies",
+      "position": "LB",
+      "rating": 79,
+      "birthdate": "04/24/1993",
+      "number": 4,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Brennan",
+      "surname": "Johnson",
+      "position": "ST",
+      "rating": 77,
+      "birthdate": "05/23/2001",
+      "number": 9,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "David",
+      "surname": "Brooks",
+      "position": "RW",
+      "rating": 76,
+      "birthdate": "07/08/1997",
+      "number": 19,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Connor",
+      "surname": "Roberts",
+      "position": "RW",
+      "rating": 75,
+      "birthdate": "09/23/1995",
+      "number": 14,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Paul",
+      "surname": "Dummett",
+      "position": "CB",
+      "rating": 74,
+      "birthdate": "09/26/1991",
+      "number": 3,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Kieffer",
+      "surname": "Moore",
+      "position": "ST",
+      "rating": 74,
+      "birthdate": "08/08/1992",
+      "number": 24,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Wayne",
+      "surname": "Hennessey",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": "01/24/1987",
+      "number": 13,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Danny",
+      "surname": "Ward",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": "06/22/1993",
+      "number": 12,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Adam",
+      "surname": "Davies",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": "07/17/1992",
+      "number": 21,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Joe",
+      "surname": "Rodon",
+      "position": "RB",
+      "rating": 74,
+      "birthdate": "10/22/1997",
+      "number": 6,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Ethan",
+      "surname": "Ampadu",
+      "position": "RB",
+      "rating": 74,
+      "birthdate": "09/14/2000",
+      "number": 15,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Joseff",
+      "surname": "Morrell",
+      "position": "RM",
+      "rating": 74,
+      "birthdate": "01/03/1997",
+      "number": 16,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Wesley",
+      "surname": "Burns",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": "11/21/1994",
+      "number": 23,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Chris",
+      "surname": "Gunter",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": "07/21/1989",
+      "number": 2,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Rhys",
+      "surname": "Norrington-Davies",
+      "position": "RM",
+      "rating": 74,
+      "birthdate": "04/22/1999",
+      "number": 17,
+      "team": "Wales",
+      "statistics": []
+    },
 }
