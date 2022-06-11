@@ -7097,5 +7097,35 @@
       "number": 16,
       "team": "Wales",
       "statistics": []
-    }
+    },
+    {
+      "name": "Wesley",
+      "surname": "Burns",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": "11/21/1994",
+      "number": 23,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Chris",
+      "surname": "Gunter",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": "07/21/1989",
+      "number": 2,
+      "team": "Wales",
+      "statistics": []
+    },
+    {
+      "name": "Rhys",
+      "surname": "Norrington-Davies",
+      "position": "RM",
+      "rating": 74,
+      "birthdate": "04/22/1999",
+      "number": 17,
+      "team": "Wales",
+      "statistics": []
+    },
 }
