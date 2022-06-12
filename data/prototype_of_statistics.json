@@ -1,0 +1,28 @@
+{
+  "team_name": {
+    "goals": 0,
+    "yellow_cards": 0,
+    "red_cards": 0
+  },
+  "match_number": {
+    "team": {
+      "goals": 0,
+      "goal_attempts": 0,
+      "shots_on_goal": 0,
+      "fouls": 0,
+      "free_kicks": 0,
+      "corner_kicks": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "offsides": 0
+    }
+  },
+  "player_name": {
+    "matches_played": 0,
+    "goals": 0,
+    "assists": 0,
+    "yellow_cards": 0,
+    "red_cards": 0
+  }
+}
+
