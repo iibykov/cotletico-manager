@@ -1,4 +1,5 @@
 from src.player import PlayerStatus, Player
+from src.team_statistics import TeamStatistics
 import json
 
 
@@ -9,6 +10,14 @@ class Team:
         self.players = players
         self.formation = Team.__check_formation(formation)
         self.coach = coach
+        self.statistics = TeamStatistics()
+
+    def __str__(self):
+        return f'Team({self.name}, # players: {len(self.players)}, Formation: {self.formation}, Coach: {self.coach},' \
+               f'PTS: {self.statistics.points}, GF: {self.statistics.goals_for}, GA: {self.statistics.goals_against})'
+
+    def __repr__(self):
+        return self.__str__()
 
     @staticmethod
     def __check_formation(formation: str) -> str:
