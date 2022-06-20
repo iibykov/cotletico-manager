@@ -84,7 +84,7 @@
     "Date": "23-Nov-22",
     "Team 1": "Spain",
     "Match": "10",
-    "Team 2": "Costa-Rica",
+    "Team 2": "Costa_Rica",
     "Group": "E",
     "Time": "7:00 PM",
     "Location": "Al Thumama Stadium"
@@ -219,7 +219,7 @@
     "Date": "27-Nov-22",
     "Team 1": "Japan",
     "Match": "25",
-    "Team 2": "Costa-Rica",
+    "Team 2": "Costa_Rica",
     "Group": "E",
     "Time": "1:00 PM",
     "Location": "Ahmad Bin Ali Stadium"
@@ -388,7 +388,7 @@
   },
   {
     "Date": "1-Dec-22",
-    "Team 1": "Costa-Rica",
+    "Team 1": "Costa_Rica",
     "Match": "44",
     "Team 2": "Germany",
     "Group": "E",

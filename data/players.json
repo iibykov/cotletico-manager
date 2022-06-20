@@ -7399,7 +7399,7 @@
       "rating": 72,
       "birthdate": "11/07/1991",
       "number": 10,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7409,7 +7409,7 @@
       "rating": 71,
       "birthdate": "07/09/1994",
       "number": 22,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7419,7 +7419,7 @@
       "rating": 70,
       "birthdate": "07/08/1992",
       "number": 80,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7429,7 +7429,7 @@
       "rating": 70,
       "birthdate": "01/14/1997",
       "number": 7,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7439,7 +7439,7 @@
       "rating": 69,
       "birthdate": "01/13/1997",
       "number": 24,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7449,7 +7449,7 @@
       "rating": 69,
       "birthdate": "01/15/1993",
       "number": 28,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7459,7 +7459,7 @@
       "rating": 68,
       "birthdate": "10/23/1993",
       "number": 9,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7469,7 +7469,7 @@
       "rating": 66,
       "birthdate": "06/23/1993",
       "number": 30,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7479,7 +7479,7 @@
       "rating": 66,
       "birthdate": "04/24/1997",
       "number": 44,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7489,7 +7489,7 @@
       "rating": 65,
       "birthdate": "02/18/1990",
       "number": 8,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7499,7 +7499,7 @@
       "rating": 65,
       "birthdate": "05/25/2002",
       "number": 27,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7509,7 +7509,7 @@
       "rating": 64,
       "birthdate": "02/24/1996",
       "number": 13,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7519,7 +7519,7 @@
       "rating": 62,
       "birthdate": "09/27/1996",
       "number": 11,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7529,7 +7529,7 @@
       "rating": 64,
       "birthdate": "04/04/1990",
       "number": 23,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7539,7 +7539,7 @@
       "rating": 68,
       "birthdate": "07/12/1994",
       "number": 4,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     },
     {
@@ -7549,7 +7549,8 @@
       "rating": 74,
       "birthdate": "05/27/1988",
       "number": 5,
-      "team": "Costa-Rica",
+      "team": "Costa_Rica",
       "statistics": []
     }
   ]
+}
