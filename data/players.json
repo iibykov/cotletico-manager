@@ -6942,7 +6942,7 @@
       "name": "Gareth",
       "surname": "Bale",
       "position": "LW",
-      "rating": 95,
+      "rating": 82,
       "birthdate": "07/16/1989",
       "number": 11,
       "team": "Wales",
@@ -6972,7 +6972,7 @@
       "name": "Harry",
       "surname": "Wilson",
       "position": "RM",
-      "rating": 93,
+      "rating": 75,
       "birthdate": "03/22/1997",
       "number": 8,
       "team": "Wales",
@@ -7062,7 +7062,7 @@
       "name": "Adam",
       "surname": "Davies",
       "position": "GK",
-      "rating": 74,
+      "rating": 78,
       "birthdate": "07/17/1992",
       "number": 21,
       "team": "Wales",
@@ -7072,7 +7072,7 @@
       "name": "Joe",
       "surname": "Rodon",
       "position": "RB",
-      "rating": 74,
+      "rating": 72,
       "birthdate": "10/22/1997",
       "number": 6,
       "team": "Wales",
@@ -7081,8 +7081,8 @@
     {
       "name": "Ethan",
       "surname": "Ampadu",
-      "position": "RB",
-      "rating": 74,
+      "position": "CB",
+      "rating": 68,
       "birthdate": "09/14/2000",
       "number": 15,
       "team": "Wales",
@@ -7101,8 +7101,8 @@
     {
       "name": "Wesley",
       "surname": "Burns",
-      "position": "LM",
-      "rating": 74,
+      "position": "RM",
+      "rating": 66,
       "birthdate": "11/21/1994",
       "number": 23,
       "team": "Wales",
@@ -7111,8 +7111,8 @@
     {
       "name": "Chris",
       "surname": "Gunter",
-      "position": "LM",
-      "rating": 74,
+      "position": "RM",
+      "rating": 65,
       "birthdate": "07/21/1989",
       "number": 2,
       "team": "Wales",
@@ -7121,11 +7121,435 @@
     {
       "name": "Rhys",
       "surname": "Norrington-Davies",
-      "position": "RM",
-      "rating": 74,
+      "position": "LWB",
+      "rating": 67,
       "birthdate": "04/22/1999",
       "number": 17,
       "team": "Wales",
+      "statistics": []
+    }
+  ],
+  "Australia": [
+    {
+      "name": "Mathew",
+      "surname": "Ryan",
+      "position": "GK",
+      "rating": 77,
+      "birthdate": "04/08/1992",
+      "number": 1,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Aaron",
+      "surname": "Mooy",
+      "position": "CM",
+      "rating": 77,
+      "birthdate": "09/15/1990",
+      "number": 13,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Jamie",
+      "surname": "Maclaren",
+      "position": "ST",
+      "rating": 76,
+      "birthdate": "07/29/1993",
+      "number": 14,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Danny",
+      "surname": "Vukovic",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": "03/27/1985",
+      "number": 18,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Andrew",
+      "surname": "Redmayne",
+      "position": "GK",
+      "rating": 74,
+      "birthdate": "01/13/1989",
+      "number": 12,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Craig",
+      "surname": "Goodwin",
+      "position": "LM",
+      "rating": 73,
+      "birthdate": "12/16/1991",
+      "number": 19,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Ajdin",
+      "surname": "Hrustic",
+      "position": "RM",
+      "rating": 70,
+      "birthdate": "07/05/1996",
+      "number": 10,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Martin",
+      "surname": "Boyle",
+      "position": "RM",
+      "rating": 70,
+      "birthdate": "04/25/1993",
+      "number": 6,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Aziz",
+      "surname": "Behich",
+      "position": "LB",
+      "rating": 70,
+      "birthdate": "12/16/1990",
+      "number": 16,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Riley",
+      "surname": "McGree",
+      "position": "СМ",
+      "rating": 70,
+      "birthdate": "11/02/1998",
+      "number": 14,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Trent",
+      "surname": "Sainsbury",
+      "position": "СB",
+      "rating": 72,
+      "birthdate": "01/05/1992",
+      "number": 20,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Adam",
+      "surname": "Taggart",
+      "position": "ST",
+      "rating": 70,
+      "birthdate": "06/02/1993",
+      "number": 9,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Nathaniel",
+      "surname": "Atkinson",
+      "position": "RB",
+      "rating": 68,
+      "birthdate": "06/13/1999",
+      "number": 4,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Awer",
+      "surname": "Mabil",
+      "position": "RM",
+      "rating": 68,
+      "birthdate": "09/15/1995",
+      "number": 11,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Bailey",
+      "surname": "Wright",
+      "position": "CB",
+      "rating": 68,
+      "birthdate": "07/28/1992",
+      "number": 8,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Jackson",
+      "surname": "Irvine",
+      "position": "CM",
+      "rating": 68,
+      "birthdate": "03/07/1993",
+      "number": 22,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Scott",
+      "surname": "Galloway",
+      "position": "RB",
+      "rating": 64,
+      "birthdate": "04/25/1995",
+      "number": 2,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Daniel",
+      "surname": "De Silva",
+      "position": "LM",
+      "rating": 67,
+      "birthdate": "03/06/1997",
+      "number": 7,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Kenny",
+      "surname": "Dougall",
+      "position": "CDM",
+      "rating": 67,
+      "birthdate": "05/07/1993",
+      "number": 32,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Jason",
+      "surname": "Davidson",
+      "position": "LWB",
+      "rating": 66,
+      "birthdate": "06/29/1991",
+      "number": 3,
+      "team": "Australia",
+      "statistics": []
+    },
+    {
+      "name": "Dimitri",
+      "surname": "Petratos",
+      "position": "CAM",
+      "rating": 69,
+      "birthdate": "11/10/1992",
+      "number": 23,
+      "team": "Australia",
+      "statistics": []
+    }
+  ],
+  "Costa-Rica": [
+    {
+      "name": "Keylor",
+      "surname": "Navas",
+      "position": "GK",
+      "rating": 88,
+      "birthdate": "12/15/1986",
+      "number": 1,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Marcos",
+      "surname": "Urena",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": "03/05/1990",
+      "number": 21,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Joel",
+      "surname": "Campbell",
+      "position": "ST",
+      "rating": 75,
+      "birthdate": "06/26/1992",
+      "number": 12,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Oscar",
+      "surname": "Duarte",
+      "position": "CB",
+      "rating": 73,
+      "birthdate": "06/03/1989",
+      "number": 6,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Cristian",
+      "surname": "Gamboa",
+      "position": "RB",
+      "rating": 72,
+      "birthdate": "10/24/1989",
+      "number": 2,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Elias",
+      "surname": "Aguilar",
+      "position": "CM",
+      "rating": 72,
+      "birthdate": "11/07/1991",
+      "number": 10,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Ronald",
+      "surname": "Matarrita",
+      "position": "LB",
+      "rating": 71,
+      "birthdate": "07/09/1994",
+      "number": 22,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Francisco",
+      "surname": "Calvo",
+      "position": "CB",
+      "rating": 70,
+      "birthdate": "07/08/1992",
+      "number": 80,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Randall",
+      "surname": "Leal",
+      "position": "LM",
+      "rating": 70,
+      "birthdate": "01/14/1997",
+      "number": 7,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Luis",
+      "surname": "Diaz",
+      "position": "RM",
+      "rating": 69,
+      "birthdate": "01/13/1997",
+      "number": 24,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Joseph",
+      "surname": "Mora",
+      "position": "LB",
+      "rating": 69,
+      "birthdate": "01/15/1993",
+      "number": 28,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Mayron",
+      "surname": "George",
+      "position": "ST",
+      "rating": 68,
+      "birthdate": "10/23/1993",
+      "number": 9,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Ulises",
+      "surname": "Segura",
+      "position": "RM",
+      "rating": 66,
+      "birthdate": "06/23/1993",
+      "number": 30,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Marvin",
+      "surname": "Loria",
+      "position": "RM",
+      "rating": 66,
+      "birthdate": "04/24/1997",
+      "number": 44,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Bryan",
+      "surname": "Oviedo",
+      "position": "LB",
+      "rating": 65,
+      "birthdate": "02/18/1990",
+      "number": 8,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Manfred",
+      "surname": "Ugalde",
+      "position": "ST",
+      "rating": 65,
+      "birthdate": "05/25/2002",
+      "number": 27,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Allan",
+      "surname": "Cruz",
+      "position": "CM",
+      "rating": 64,
+      "birthdate": "02/24/1996",
+      "number": 13,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Ariel",
+      "surname": "Lassiter",
+      "position": "RM",
+      "rating": 62,
+      "birthdate": "09/27/1996",
+      "number": 11,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Leonel",
+      "surname": "Moreira",
+      "position": "GK",
+      "rating": 64,
+      "birthdate": "04/04/1990",
+      "number": 23,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Keysher",
+      "surname": "Fuller",
+      "position": "RB",
+      "rating": 68,
+      "birthdate": "07/12/1994",
+      "number": 4,
+      "team": "Costa_Rica",
+      "statistics": []
+    },
+    {
+      "name": "Celso",
+      "surname": "Borges",
+      "position": "LM",
+      "rating": 74,
+      "birthdate": "05/27/1988",
+      "number": 5,
+      "team": "Costa_Rica",
       "statistics": []
     }
   ]
